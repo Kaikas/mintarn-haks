@@ -1,0 +1,4727 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: vfx_backpack2
+filedependancy Unknown
+newmodel vfx_backpack2
+setsupermodel vfx_backpack2 a_ba
+classification Character
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+  position 0.00367073 -0.486183 -0.1486
+  orientation 0 0 0 0
+  wirecolor 0.113281 0.113281 0.113281
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_CrpsBksRp
+  verts 12
+    0.183432 0.118393 0.55249
+    -0.220328 0.118393 0.577731
+    -0.178951 0.170749 0.568852
+    0.178976 0.170749 0.57152
+    0.220354 -0.0777877 0.468632
+    -0.220328 -0.0777877 0.468632
+    -0.220328 -0.0293939 0.512924
+    0.220354 -0.0293939 0.541218
+    0.0951007 -0.157044 0.303308
+    0.178976 -0.125088 0.342477
+    -0.0862212 -0.157044 0.303308
+    -0.178951 -0.125088 0.342477
+  faces 8
+    0 1 2  1  0 1 2  0
+    2 3 0  1  2 3 0  0
+    4 5 6  1  4 5 6  0
+    6 7 4  1  6 7 4  0
+    8 4 9  1  8 4 9  0
+    4 8 5  1  4 8 5  0
+    10 11 5  1  10 11 5  0
+    8 10 5  1  8 10 5  0
+  tverts 12
+    0.977642 0.0352172 0
+    0.834316 0.0352174 0
+    0.847774 0.00765805 0
+    0.964186 0.0076579 0
+    0.816385 0.0732275 0
+    0.973372 0.0733019 0
+    0.973388 0.0201733 0
+    0.816401 0.00571384 0
+    0.861813 0.16268 0
+    0.831122 0.139331 0
+    0.924667 0.16271 0
+    0.958629 0.139392 0
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+  position 0.00504707 -0.252424 0.238664
+  orientation -1 0 0 -0.279253
+  wirecolor 0.0273438 0.0273438 0.0273438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_CrpsBksRp
+  verts 8
+    -0.171257 -0.0423525 0.106998
+    0.184609 -0.0754715 0.104981
+    0.162061 0.0114947 0.104981
+    -0.161252 0.0114947 0.104981
+    0.184609 -0.0754715 0.0390183
+    0.161642 0.0114947 0.0390183
+    -0.161252 0.0114947 0.0390183
+    -0.171257 -0.0423525 0.0410349
+  faces 8
+    0 1 2  1  0 1 2  0
+    2 3 0  1  2 3 0  0
+    4 5 2  1  4 5 2  0
+    2 1 4  1  2 1 4  0
+    5 6 3  1  5 6 3  0
+    3 2 5  1  3 2 5  0
+    6 7 0  1  6 7 0  0
+    0 3 6  1  0 3 6  0
+  tverts 8
+    0.243807 0.607544 0
+    0.365057 0.606824 0
+    0.354472 0.606824 0
+    0.248504 0.606824 0
+    0.365057 0.581081 0
+    0.354275 0.581081 0
+    0.248504 0.581081 0
+    0.243807 0.581801 0
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+  position 0.00367073 -0.486183 -0.1486
+  orientation 0 0 0 0
+  wirecolor 0.839844 0.839844 0.839844
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_black00
+  verts 4
+    0.156162 -0.0634922 0.246121
+    -0.166181 0.17962 0.246121
+    -0.15523 -0.0634922 0.246121
+    0.167008 0.17962 0.246121
+  faces 2
+    0 1 2  1  0 1 2  0
+    1 0 3  1  1 0 3  0
+  tverts 4
+    0.304221 0.563191 0
+    0.303481 0.575277 0
+    0.265487 0.564373 0
+    0.34505 0.575395 0
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+  position 0.00367073 -0.488875 -0.1486
+  orientation 0 0 0 0
+  wirecolor 0.890625 0.890625 0.890625
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_CrpsBksRp
+  verts 12
+    -0.220328 -0.0319369 0.512924
+    0.224663 -0.0265882 0.517648
+    -0.220328 0.128636 0.577731
+    0.20611 0.0974002 0.533615
+    -0.178951 0.185521 0.568852
+    0.178976 0.185521 0.58802
+    -0.220328 -0.0845175 0.468632
+    0.220354 -0.0845175 0.468632
+    -0.178951 -0.13591 0.342477
+    0.178976 -0.13591 0.342477
+    -0.0862212 -0.170631 0.303308
+    0.0951007 -0.170631 0.303308
+  faces 10
+    0 1 2  1  0 1 2  0
+    3 2 1  1  3 2 1  0
+    4 2 3  1  4 5 6  0
+    3 5 4  1  6 7 4  0
+    0 6 7  1  8 9 10  0
+    7 1 0  1  10 11 8  0
+    6 8 9  1  9 12 13  0
+    9 7 6  1  13 10 9  0
+    8 10 11  1  12 14 15  0
+    11 9 8  1  15 13 12  0
+  tverts 16
+    0.967247 0.003542 0
+    0.829811 0.00562666 0
+    0.967247 0.0693513 0
+    0.829811 0.0714359 0
+    0.831689 0.0170742 0
+    0.817332 0.0430735 0
+    0.970251 0.0430734 0
+    0.955892 0.017074 0
+    0.973151 0.0250054 0
+    0.973138 0.0741748 0
+    0.816602 0.0741007 0
+    0.816615 0.0105461 0
+    0.958441 0.136803 0
+    0.8313 0.136743 0
+    0.926402 0.158801 0
+    0.860254 0.15877 0
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+  position 0.00367073 -0.488875 -0.1486
+  orientation 0 0 0 0
+  wirecolor 0.769531 0.769531 0.769531
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_CrpsBksRp
+  verts 53
+    -0.167417 -0.0874464 0
+    0 -0.144329 0
+    -0.19933 -0.118211 0.0961392
+    0 -0.169751 0.0961392
+    0.167576 -0.0874464 0
+    0.178457 -0.0196351 0
+    0.199312 -0.118211 0.0961392
+    0.252459 -0.0367079 0.0961392
+    0.161289 -0.0858751 0.00841812
+    0 -0.142794 0.0194909
+    0.213169 0.252332 0.00327159
+    0 0.252332 0.011885
+    -0.166518 -0.0879214 0.00493925
+    -0.20972 0.13126 0
+    -0.213377 0.176862 0.0153254
+    -0.227718 0.0875353 0.0961392
+    0 -0.0329413 0.45116
+    0 -0.0489517 0.443661
+    0.156162 -0.0546162 0.488902
+    -0.167417 -0.0706267 0.473859
+    0.167576 -0.0706267 0.481404
+    -0.15523 -0.0546162 0.43895
+    0.195367 0.109414 0.53135
+    0.212238 -0.0150789 0.51707
+    0.209658 0.108527 0.538325
+    0.167008 0.161758 0.560836
+    0.178976 0.185521 0.57152
+    0.198883 -0.0141909 0.511674
+    -0.166181 0.161758 0.560836
+    -0.178951 0.185521 0.568852
+    0 0.161758 0.560836
+    -0.192666 -0.0147279 0.461419
+    -0.20972 0.129811 0.575298
+    -0.206924 -0.015616 0.514712
+    -0.194464 0.109414 0.53135
+    -0.15523 -0.0689852 0.246121
+    0.156162 -0.0689852 0.246121
+    0.167008 0.19516 0.246121
+    -0.166181 0.19516 0.246121
+    0.209658 0.13126 0
+    0.249389 0.144652 0.0961392
+    -0.178505 -0.0202909 0
+    -0.221278 -0.0374959 0.0961392
+    0 -0.119045 0.28809
+    -0.167417 -0.0874464 0.28809
+    0.212238 -0.0196351 0.28809
+    0.167576 -0.0874464 0.28809
+    0 0.290081 0.28809
+    0.179221 0.220851 0.28809
+    -0.20972 0.13126 0.28809
+    -0.179221 0.190826 0.28809
+    0.209658 0.13126 0.28809
+    -0.206924 -0.0202909 0.28809
+  faces 92
+    0 1 2  1  0 1 2  0
+    3 2 1  1  3 2 1  0
+    4 5 6  1  4 5 6  0
+    7 6 5  1  7 6 5  0
+    8 9 10  1  8 9 10  0
+    11 10 9  1  11 10 9  0
+    12 13 14  1  12 13 14  0
+    15 14 13  1  15 14 13  0
+    16 17 18  1  16 17 18  0
+    17 16 19  1  17 16 19  0
+    18 17 20  1  18 17 20  0
+    19 16 21  1  19 16 21  0
+    22 23 24  1  22 23 24  0
+    25 24 26  1  25 24 26  0
+    25 22 24  1  25 22 24  0
+    23 22 27  1  23 22 27  0
+    20 23 27  1  20 23 27  0
+    20 27 18  1  20 27 18  0
+    28 26 29  1  28 26 29  0
+    28 30 26  1  28 30 26  0
+    26 30 25  1  26 30 25  0
+    31 32 33  1  31 32 33  0
+    21 31 33  1  21 31 33  0
+    32 31 34  1  32 31 34  0
+    21 33 19  1  21 33 19  0
+    29 34 28  1  29 34 28  0
+    29 32 34  1  29 32 34  0
+    21 16 35  1  35 36 37  0
+    36 35 16  1  38 37 36  0
+    18 27 36  1  39 40 41  0
+    25 30 37  1  42 43 44  0
+    38 37 30  1  45 44 43  0
+    28 34 38  1  46 47 48  0
+    1 4 3  1  1 4 3  0
+    6 3 4  1  6 3 4  0
+    9 12 11  1  9 12 11  0
+    14 11 12  1  14 11 12  0
+    16 18 36  1  36 39 38  0
+    30 28 38  1  43 46 45  0
+    39 8 40  1  49 8 50  0
+    10 40 8  1  10 50 8  0
+    13 41 15  1  51 52 53  0
+    42 15 41  1  54 53 52  0
+    22 25 37  1  55 42 44  0
+    34 31 38  1  56 57 58  0
+    35 38 31  1  37 58 57  0
+    5 39 7  1  59 60 61  0
+    40 7 39  1  62 61 60  0
+    27 22 36  1  40 55 41  0
+    37 36 22  1  44 41 55  0
+    41 0 42  1  63 0 64  0
+    2 42 0  1  2 64 0  0
+    31 21 35  1  57 35 37  0
+    3 43 2  1  3 65 2  0
+    44 2 43  1  66 2 65  0
+    7 45 6  1  7 67 6  0
+    46 6 45  1  68 6 67  0
+    11 47 10  1  11 69 10  0
+    48 10 47  1  70 10 69  0
+    15 49 14  1  15 71 14  0
+    50 14 49  1  72 14 71  0
+    6 46 3  1  6 68 3  0
+    43 3 46  1  65 3 68  0
+    14 50 11  1  14 72 11  0
+    47 11 50  1  69 11 72  0
+    10 48 40  1  10 70 50  0
+    51 40 48  1  73 50 70  0
+    42 52 15  1  54 74 53  0
+    49 15 52  1  75 53 74  0
+    40 51 7  1  62 73 61  0
+    45 7 51  1  76 61 73  0
+    2 44 42  1  2 66 64  0
+    52 42 44  1  77 64 66  0
+    43 17 44  1  65 78 66  0
+    19 44 17  1  79 66 78  0
+    45 23 46  1  67 80 68  0
+    20 46 23  1  81 68 80  0
+    47 26 48  1  69 82 70  0
+    49 32 50  1  71 83 72  0
+    29 50 32  1  84 72 83  0
+    46 20 43  1  68 81 65  0
+    17 43 20  1  78 65 81  0
+    50 29 47  1  72 84 69  0
+    26 47 29  1  82 69 84  0
+    48 26 51  1  70 82 73  0
+    24 51 26  1  85 73 82  0
+    52 33 49  1  74 86 75  0
+    32 49 33  1  87 75 86  0
+    51 24 45  1  73 85 76  0
+    23 45 24  1  88 76 85  0
+    44 19 52  1  66 79 77  0
+    33 52 19  1  89 77 79  0
+  tverts 90
+    0.519061 0.500023 0
+    0.560889 0.497816 0
+    0.511192 0.526412 0
+    0.560929 0.524446 0
+    0.602441 0.500259 0
+    0.582081 0.503062 0
+    0.610415 0.526693 0
+    0.592134 0.530061 0
+    0.60459 0.512866 0
+    0.559981 0.51274 0
+    0.612963 0.541846 0
+    0.559878 0.541695 0
+    0.515372 0.512613 0
+    0.532541 0.50893 0
+    0.506794 0.541544 0
+    0.522564 0.537118 0
+    0.304056 0.624965 0
+    0.304095 0.683958 0
+    0.342958 0.635052 0
+    0.262458 0.683958 0
+    0.345838 0.683958 0
+    0.265452 0.620456 0
+    0.352318 0.653999 0
+    0.35682 0.683958 0
+    0.355877 0.683958 0
+    0.345131 0.664604 0
+    0.348122 0.683958 0
+    0.353494 0.643288 0
+    0.2622 0.664369 0
+    0.258905 0.683958 0
+    0.303563 0.664486 0
+    0.256037 0.628526 0
+    0.251492 0.683958 0
+    0.25249 0.683958 0
+    0.255288 0.653724 0
+    0.126475 0.201288 0
+    0.158461 0.201288 0
+    0.141847 0.147841 0
+    0.171679 0.147841 0
+    0.191544 0.201288 0
+    0.204027 0.201288 0
+    0.20191 0.147841 0
+    0.247427 0.201288 0
+    0.279391 0.201288 0
+    0.265154 0.147841 0
+    0.292137 0.147841 0
+    0.310658 0.201288 0
+    0.323502 0.201288 0
+    0.318669 0.147841 0
+    0.581072 0.509227 0
+    0.590928 0.537471 0
+    0.612459 0.502739 0
+    0.582858 0.50893 0
+    0.617928 0.538299 0
+    0.591085 0.530695 0
+    0.23442 0.201288 0
+    0.0842679 0.201288 0
+    0.114657 0.201288 0
+    0.079435 0.147841 0
+    0.615989 0.505525 0
+    0.581972 0.509227 0
+    0.616732 0.530883 0
+    0.586876 0.537471 0
+    0.533605 0.502739 0
+    0.523836 0.529677 0
+    0.560828 0.61151 0
+    0.519061 0.611901 0
+    0.582081 0.60398 0
+    0.602441 0.603526 0
+    0.559812 0.598481 0
+    0.60459 0.595778 0
+    0.532541 0.591842 0
+    0.515372 0.595525 0
+    0.581072 0.592138 0
+    0.581793 0.603657 0
+    0.610885 0.591842 0
+    0.614134 0.60398 0
+    0.533605 0.603657 0
+    0.560657 0.691204 0
+    0.51902 0.691204 0
+    0.58207 0.691204 0
+    0.6024 0.691204 0
+    0.604684 0.691204 0
+    0.532596 0.691204 0
+    0.515467 0.691204 0
+    0.581127 0.691204 0
+    0.581804 0.691204 0
+    0.611486 0.691204 0
+    0.615115 0.691204 0
+    0.533594 0.691204 0
+endnode
+node trimesh Mesh115
+  parent Box1027
+  position 0.236664 0.0227264 0.296095
+  orientation -0.55287 0.571346 -0.606546 -4.18232
+  wirecolor 0.878906 0.878906 0.878906
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_CrpsBksRp
+  verts 4
+    0.13296 -0.173083 0.0048759
+    0.13296 0.173083 0.0048759
+    0.135832 0.173083 0.0526008
+    0.135832 -0.173083 0.0526008
+  faces 2
+    0 1 2  1  0 1 2  0
+    2 3 0  1  2 3 0  0
+  tverts 4
+    0.23549 0.790179 0
+    0.191272 0.989776 0
+    0.25527 0.999906 0
+    0.299488 0.80031 0
+endnode
+node trimesh Mesh114
+  parent Box1027
+  position 0.236664 0.0227264 0.296095
+  orientation -0.55287 0.571346 -0.606546 -4.18232
+  wirecolor 0.550781 0.550781 0.550781
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_Bookcover
+  verts 8
+    -0.164628 -0.173083 0.0422998
+    0.135832 -0.173083 0.0526008
+    0.135832 0.173083 0.0526008
+    -0.164628 0.173083 0.0422998
+    -0.1675 -0.173083 -0.0054254
+    0.132959 -0.173083 0.00487558
+    0.132959 0.173083 0.00487558
+    -0.1675 0.173083 -0.0054254
+  faces 10
+    0 1 2  1  0 1 2  0
+    2 3 0  1  2 3 0  0
+    4 5 1  1  4 5 1  0
+    1 0 4  1  1 6 4  0
+    6 7 3  1  7 8 9  0
+    3 2 6  1  9 10 7  0
+    7 4 0  1  11 12 13  0
+    0 3 7  1  13 14 11  0
+    5 4 6  1  1 0 2  0
+    7 6 4  1  3 2 0  0
+  tverts 15
+    0.800408 0.191224 0
+    0.000499487 0.191224 0
+    0.000499845 0.9995 0
+    0.800408 0.999501 0
+    0.804355 0.0107171 0
+    0.000499487 0.0107169 0
+    0.804355 0.191224 0
+    0.000499845 0.00433118 0
+    0.804355 0.00433142 0
+    0.804355 0.183075 0
+    0.000499845 0.183075 0
+    0.801777 0.000499517 0
+    0.096622 0.000499696 0
+    0.096622 0.18066 0
+    0.801777 0.18066 0
+endnode
+node trimesh Cylinder01
+  parent Box1027
+  position -0.205781 0.0267945 0.585876
+  orientation -0.123939 -0.123938 -0.984519 -1.5864
+  wirecolor 0.105469 0.105469 0.105469
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0.79 0.79 0.79
+  shininess 28
+  bitmap GI_000
+  verts 16
+    0 0.0300393 -0.1047
+    0 -0.0300393 -0.1047
+    0.0362656 0 -0.1047
+    0.030679 0 -0.228798
+    0 -0.0254118 -0.228798
+    0 0.0254116 -0.228798
+    0.104479 0 -0.327881
+    0 -0.0865412 -0.327881
+    0 0.0865411 -0.327881
+    0.0382062 0 -0.380516
+    0 -0.0316467 -0.380516
+    0 0.0316467 -0.380516
+    -0.0362656 0 -0.1047
+    -0.0306789 0 -0.228798
+    -0.104479 0 -0.327881
+    -0.0382062 0 -0.380516
+  faces 28
+    0 1 2  1  0 1 2  0
+    2 1 3  1  3 4 5  0
+    3 1 4  1  5 4 6  0
+    0 3 5  1  7 5 8  0
+    0 2 3  1  7 3 5  0
+    3 4 6  1  5 6 9  0
+    6 4 7  1  9 6 10  0
+    5 6 8  1  8 9 11  0
+    5 3 6  1  8 5 9  0
+    6 7 9  1  9 10 12  0
+    9 7 10  1  12 10 13  0
+    8 9 11  1  11 12 14  0
+    8 6 9  1  11 9 12  0
+    11 9 10  1  14 12 13  0
+    0 12 1  1  0 15 1  0
+    12 13 1  1  3 5 4  0
+    13 4 1  1  5 6 4  0
+    0 5 13  1  7 8 5  0
+    0 13 12  1  7 5 3  0
+    13 14 4  1  5 9 6  0
+    14 7 4  1  9 10 6  0
+    5 8 14  1  8 11 9  0
+    5 14 13  1  8 9 5  0
+    14 15 7  1  9 12 10  0
+    15 10 7  1  12 13 10  0
+    8 11 15  1  11 14 12  0
+    8 15 14  1  11 12 9  0
+    11 10 15  1  14 13 12  0
+  tverts 16
+    0.939823 0.481694 0
+    0.942722 0.483092 0
+    0.939823 0.483092 0
+    0.917661 0.497334 0
+    0.967337 0.497334 0
+    0.913761 0.471808 0
+    0.968835 0.471808 0
+    0.9676 0.497334 0
+    0.969098 0.471808 0
+    0.904218 0.393281 0
+    0.97502 0.393281 0
+    0.975283 0.393281 0
+    0.920181 0.37758 0
+    0.948 0.37758 0
+    0.948262 0.37758 0
+    0.942722 0.481694 0
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+  position -0.318395 -0.439871 0.432811
+  orientation 0 -1 0 -1.5708
+  wirecolor 0.425781 0.425781 0.425781
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap PLC_RugDMtlBrk
+  verts 26
+    0 0 0
+    0.0651709 0.0724142 0
+    0.0921655 0 0
+    0 0.102409 0
+    -0.0651709 0.0724142 0
+    -0.0921655 0 0
+    -0.0651709 -0.0724142 0
+    0 -0.102409 0
+    0.0651709 -0.0724142 0
+    0.0509147 0.0565735 0.331191
+    0.0720044 0 0.331191
+    0 0.080007 0.331191
+    -0.0509147 0.0565735 0.331191
+    -0.0720043 0 0.331191
+    -0.0509147 -0.0565735 0.331191
+    0 -0.0800071 0.331191
+    0.0509147 -0.0565735 0.331191
+    0.0651709 0.0724142 0.66238
+    0.0921655 0 0.66238
+    0 0.102409 0.66238
+    -0.0651709 0.0724142 0.66238
+    -0.0921655 0 0.66238
+    -0.0651709 -0.0724142 0.66238
+    0 -0.102409 0.66238
+    0.0651709 -0.0724142 0.66238
+    0 0 0.66238
+  faces 48
+    0 1 2  1  0 1 2  0
+    0 3 1  1  0 3 1  0
+    0 4 3  1  0 4 3  0
+    0 5 4  1  0 5 4  0
+    0 6 5  1  0 6 5  0
+    0 7 6  1  0 7 6  0
+    0 8 7  1  0 8 7  0
+    0 2 8  1  0 2 8  0
+    2 9 10  1  9 10 11  0
+    2 1 9  1  9 12 10  0
+    1 11 9  1  12 13 10  0
+    1 3 11  1  12 14 13  0
+    3 12 11  1  15 16 17  0
+    3 4 12  1  15 18 16  0
+    4 13 12  1  18 19 16  0
+    4 5 13  1  18 20 19  0
+    5 14 13  1  20 21 19  0
+    5 6 14  1  20 22 21  0
+    6 15 14  1  22 23 21  0
+    6 7 15  1  22 24 23  0
+    7 16 15  1  24 25 23  0
+    7 8 16  1  24 26 25  0
+    8 10 16  1  26 11 25  0
+    8 2 10  1  26 9 11  0
+    10 17 18  1  11 27 28  0
+    10 9 17  1  11 10 27  0
+    9 19 17  1  10 29 27  0
+    9 11 19  1  10 13 29  0
+    11 20 19  1  17 30 31  0
+    11 12 20  1  17 16 30  0
+    12 21 20  1  16 32 30  0
+    12 13 21  1  16 19 32  0
+    13 22 21  1  19 33 32  0
+    13 14 22  1  19 21 33  0
+    14 23 22  1  21 34 33  0
+    14 15 23  1  21 23 34  0
+    15 24 23  1  23 35 34  0
+    15 16 24  1  23 25 35  0
+    16 18 24  1  25 28 35  0
+    16 10 18  1  25 11 28  0
+    25 18 17  1  0 2 1  0
+    25 17 19  1  0 1 3  0
+    25 19 20  1  0 3 4  0
+    25 20 21  1  0 4 5  0
+    25 21 22  1  0 5 6  0
+    25 22 23  1  0 6 7  0
+    25 23 24  1  0 7 8  0
+    25 24 18  1  0 8 2  0
+  tverts 36
+    0.761787 0.849323 0
+    0.575579 0.768358 0
+    0.573805 0.923193 0
+    0.572867 0.923741 0
+    0.575457 0.768047 0
+    0.573682 0.922882 0
+    0.575528 0.768018 0
+    0.572939 0.923713 0
+    0.575651 0.768329 0
+    0.905947 0.849239 0
+    0.553684 0.973178 0
+    0.553684 0.849239 0
+    0.905947 0.973178 0
+    0.553684 0.848178 0
+    0.905947 0.848178 0
+    0.905947 0.845872 0
+    0.553684 0.973086 0
+    0.553684 0.845872 0
+    0.905947 0.973086 0
+    0.553684 0.848086 0
+    0.905947 0.848086 0
+    0.553684 0.972025 0
+    0.905947 0.972025 0
+    0.553684 0.847025 0
+    0.905947 0.847025 0
+    0.553684 0.974239 0
+    0.905947 0.974239 0
+    0.901856 0.973178 0
+    0.901856 0.849239 0
+    0.901856 0.848178 0
+    0.901856 0.973086 0
+    0.901856 0.845872 0
+    0.901856 0.848086 0
+    0.901856 0.972025 0
+    0.901856 0.847025 0
+    0.901856 0.974239 0
+endnode
+endmodelgeom vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hreadyr vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hreadyr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hreadyl vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hreadyl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wreadyr vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wreadyr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wreadyl vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wreadyl vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwreadyl vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwreadyl vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwreadyr vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwreadyr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hslashl vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hslashl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hslashr vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hslashr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hstab vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hstab vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hcloseh vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hcloseh vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hclosel vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hclosel vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hreach vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hreach vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hparryr vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hparryr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hparryl vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hparryl vfx_backpack2
+
+#MAXANIM ASCII
+newanim dodgelr vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim dodgelr vfx_backpack2
+
+#MAXANIM ASCII
+newanim dodges vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim dodges vfx_backpack2
+
+#MAXANIM ASCII
+newanim damages vfx_backpack2
+  length 0.266667
+  transtime 0.2
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim damages vfx_backpack2
+
+#MAXANIM ASCII
+newanim cwalkf vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim cwalkf vfx_backpack2
+
+#MAXANIM ASCII
+newanim cwalkb vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim cwalkb vfx_backpack2
+
+#MAXANIM ASCII
+newanim cwalkl vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim cwalkl vfx_backpack2
+
+#MAXANIM ASCII
+newanim cwalkr vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim cwalkr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wslashl vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wslashl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wslashr vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wslashr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wstab vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wstab vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wcloseh vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wcloseh vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wclosel vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wclosel vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wreach vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wreach vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwslashl vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwslashl vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwstab vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwstab vfx_backpack2
+
+#MAXANIM ASCII
+newanim throwr vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim throwr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wparryl vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wparryl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wparryr vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wparryr vfx_backpack2
+
+#MAXANIM ASCII
+newanim shieldl vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim shieldl vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdbck vfx_backpack2
+  length 1
+  transtime 0.2
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdbck vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdbckps vfx_backpack2
+  length 1
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdbckps vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdbckdmg vfx_backpack2
+  length 0.333333
+  transtime 0.2
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdbckdmg vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdbckdie vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdbckdie vfx_backpack2
+
+#MAXANIM ASCII
+newanim gutokdb vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim gutokdb vfx_backpack2
+
+#MAXANIM ASCII
+newanim gustandb vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim gustandb vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdfnt vfx_backpack2
+  length 1
+  transtime 0.2
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdfnt vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdfntps vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdfntps vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdfntdmg vfx_backpack2
+  length 0.333333
+  transtime 0.125
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdfntdmg vfx_backpack2
+
+#MAXANIM ASCII
+newanim kdfntdie vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim kdfntdie vfx_backpack2
+
+#MAXANIM ASCII
+newanim gutokdf vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim gutokdf vfx_backpack2
+
+#MAXANIM ASCII
+newanim gustandf vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim gustandf vfx_backpack2
+
+#MAXANIM ASCII
+newanim damagel vfx_backpack2
+  length 0.266667
+  transtime 0.2
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim damagel vfx_backpack2
+
+#MAXANIM ASCII
+newanim damager vfx_backpack2
+  length 0.266667
+  transtime 0.2
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim damager vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwcloseh vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwcloseh vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwclosel vfx_backpack2
+  length 1
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwclosel vfx_backpack2
+
+#MAXANIM ASCII
+newanim spasm vfx_backpack2
+  length 0.666667
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim spasm vfx_backpack2
+
+#MAXANIM ASCII
+newanim deadfnt vfx_backpack2
+  length 0.0333333
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim deadfnt vfx_backpack2
+
+#MAXANIM ASCII
+newanim deadbck vfx_backpack2
+  length 0.0333333
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim deadbck vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwreach vfx_backpack2
+  length 1.16667
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwreach vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwkickl vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwkickl vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwkickr vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwkickr vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwslashr vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwslashr vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwkicks vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwkicks vfx_backpack2
+
+#MAXANIM ASCII
+newanim bowrdy vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim bowrdy vfx_backpack2
+
+#MAXANIM ASCII
+newanim xbowrdy vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim xbowrdy vfx_backpack2
+
+#MAXANIM ASCII
+newanim bowshot vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim bowshot vfx_backpack2
+
+#MAXANIM ASCII
+newanim xbowshot vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim xbowshot vfx_backpack2
+
+#MAXANIM ASCII
+newanim 1hslasho vfx_backpack2
+  length 1
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 1hslasho vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2wslasho vfx_backpack2
+  length 1
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2wslasho vfx_backpack2
+
+#MAXANIM ASCII
+newanim nwslasho vfx_backpack2
+  length 1
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim nwslasho vfx_backpack2
+
+#MAXANIM ASCII
+newanim disappear vfx_backpack2
+  length 1.96667
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim disappear vfx_backpack2
+
+#MAXANIM ASCII
+newanim appear vfx_backpack2
+  length 2
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim appear vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hreadyr vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hreadyr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hreadyl vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hreadyl vfx_backpack2
+
+#MAXANIM ASCII
+newanim plreadyr vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plreadyr vfx_backpack2
+
+#MAXANIM ASCII
+newanim plreadyl vfx_backpack2
+  length 1
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plreadyl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hslashl vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hslashl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hslashr vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hslashr vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hstab vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hstab vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hcloseh vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hcloseh vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hclosel vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hclosel vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hreach vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hreach vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hparryl vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hparryl vfx_backpack2
+
+#MAXANIM ASCII
+newanim 2hparryr vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim 2hparryr vfx_backpack2
+
+#MAXANIM ASCII
+newanim plslashl vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plslashl vfx_backpack2
+
+#MAXANIM ASCII
+newanim plslashr vfx_backpack2
+  length 1
+  transtime 0.3
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plslashr vfx_backpack2
+
+#MAXANIM ASCII
+newanim plstab vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plstab vfx_backpack2
+
+#MAXANIM ASCII
+newanim plcloseh vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plcloseh vfx_backpack2
+
+#MAXANIM ASCII
+newanim plclosel vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plclosel vfx_backpack2
+
+#MAXANIM ASCII
+newanim plreach vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plreach vfx_backpack2
+
+#MAXANIM ASCII
+newanim plparryl vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plparryl vfx_backpack2
+
+#MAXANIM ASCII
+newanim plparryr vfx_backpack2
+  length 1
+  transtime 0.4
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim plparryr vfx_backpack2
+
+#MAXANIM ASCII
+newanim walk vfx_backpack2
+  length 1
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim walk vfx_backpack2
+
+#MAXANIM ASCII
+newanim run vfx_backpack2
+  length 0.666667
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim run vfx_backpack2
+
+#MAXANIM ASCII
+newanim getlow vfx_backpack2
+  length 0.866667
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim getlow vfx_backpack2
+
+#MAXANIM ASCII
+newanim getmid vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim getmid vfx_backpack2
+
+#MAXANIM ASCII
+newanim walkdead vfx_backpack2
+  length 2
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim walkdead vfx_backpack2
+
+#MAXANIM ASCII
+newanim walkinj vfx_backpack2
+  length 1.5
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim walkinj vfx_backpack2
+
+#MAXANIM ASCII
+newanim getmidlp vfx_backpack2
+  length 0
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim getmidlp vfx_backpack2
+
+#MAXANIM ASCII
+newanim getlowlp vfx_backpack2
+  length 0
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim getlowlp vfx_backpack2
+
+#MAXANIM ASCII
+newanim drwright vfx_backpack2
+  length 1
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim drwright vfx_backpack2
+
+#MAXANIM ASCII
+newanim drwleft vfx_backpack2
+  length 1
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim drwleft vfx_backpack2
+
+#MAXANIM ASCII
+newanim taunt vfx_backpack2
+  length 3
+  transtime 0.75
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim taunt vfx_backpack2
+
+#MAXANIM ASCII
+newanim conjure1 vfx_backpack2
+  length 1
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim conjure1 vfx_backpack2
+
+#MAXANIM ASCII
+newanim conjure2 vfx_backpack2
+  length 1
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim conjure2 vfx_backpack2
+
+#MAXANIM ASCII
+newanim castout vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim castout vfx_backpack2
+
+#MAXANIM ASCII
+newanim castself vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim castself vfx_backpack2
+
+#MAXANIM ASCII
+newanim castup vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim castup vfx_backpack2
+
+#MAXANIM ASCII
+newanim castarea vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim castarea vfx_backpack2
+
+#MAXANIM ASCII
+newanim victorymg vfx_backpack2
+  length 1.73333
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim victorymg vfx_backpack2
+
+#MAXANIM ASCII
+newanim victoryth vfx_backpack2
+  length 1
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim victoryth vfx_backpack2
+
+#MAXANIM ASCII
+newanim victoryfr vfx_backpack2
+  length 1.73333
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim victoryfr vfx_backpack2
+
+#MAXANIM ASCII
+newanim castpoint vfx_backpack2
+  length 0.5
+  transtime 0.5
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim castpoint vfx_backpack2
+
+#MAXANIM ASCII
+newanim default vfx_backpack2
+  length 2
+  transtime 1
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim default vfx_backpack2
+
+#MAXANIM ASCII
+newanim disappearlp vfx_backpack2
+  length 0.0333333
+  transtime 0.25
+  animroot vfx_backpack2
+node dummy vfx_backpack2
+  parent NULL
+endnode
+node trimesh Object44
+  parent vfx_backpack2
+endnode
+node trimesh Box104
+  parent vfx_backpack2
+endnode
+node trimesh Object05
+  parent vfx_backpack2
+endnode
+node trimesh Object33
+  parent vfx_backpack2
+endnode
+node trimesh Box1027
+  parent vfx_backpack2
+endnode
+node trimesh Mesh115
+  parent Box1027
+endnode
+node trimesh Mesh114
+  parent Box1027
+endnode
+node trimesh Cylinder01
+  parent Box1027
+endnode
+node trimesh Cylinder46
+  parent vfx_backpack2
+endnode
+doneanim disappearlp vfx_backpack2
+donemodel vfx_backpack2

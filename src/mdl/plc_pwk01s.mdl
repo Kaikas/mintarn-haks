@@ -1,0 +1,68 @@
+# Exported from blender Thursday, 2019-04-25
+filedependancy unknown
+newmodel plc_pwk01s
+setsupermodel plc_pwk01s null
+classification CHARACTER
+setanimationscale 1.0
+beginmodelgeom plc_pwk01s
+node dummy plc_pwk01s
+  parent null
+endnode
+node trimesh block
+  parent plc_pwk01s
+  position  0.00000  0.00000  0.00000
+  orientation  1.00000  0.00000  0.00000  0.00000
+  wirecolor 1.00 1.00 1.00
+  ambient 1.00 1.00 1.00
+  diffuse 1.00 1.00 1.00
+  specular 1.00 1.00 1.00
+  bitmap plc_pwk
+  shininess 1
+  render 0
+  shadow 0
+  verts 8
+    -1.25000 -1.25000 -2.50000
+    -1.25000 -1.25000  2.50000
+    -1.25000  1.25000 -2.50000
+    -1.25000  1.25000  2.50000
+     1.25000 -1.25000 -2.50000
+     1.25000 -1.25000  2.50000
+     1.25000  1.25000 -2.50000
+     1.25000  1.25000  2.50000
+  tverts 20
+     1.000  0.000  0
+     0.000  1.000  0
+     0.000  0.000  0
+     1.000  0.000  0
+     0.000  1.000  0
+     0.000  0.000  0
+     1.000  0.000  0
+     0.000  1.000  0
+     0.000  0.000  0
+     1.000  0.000  0
+     0.000  1.000  0
+     0.000  0.000  0
+     0.000  0.000  0
+     0.000  0.000  0
+     1.000  1.000  0
+     1.000  1.000  0
+     1.000  1.000  0
+     1.000  1.000  0
+     1.000  1.000  0
+     1.000  1.000  0
+  faces 12
+    1 2 0  1   0  1  2  0
+    3 6 2  1   3  4  5  0
+    7 4 6  1   6  7  8  0
+    0 5 1  1   9 10 11  0
+    0 6 4  1   9  4 12  0
+    3 5 7  1   3 10 13  0
+    1 3 2  1   0 14  1  0
+    3 7 6  1   3 15  4  0
+    7 5 4  1   6 16  7  0
+    0 4 5  1   9 17 10  0
+    0 2 6  1   9 18  4  0
+    3 1 5  1   3 19 10  0
+endnode
+endmodelgeom plc_pwk01s
+donemodel plc_pwk01s

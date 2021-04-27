@@ -8,7 +8,6 @@ Extracted the following haks into one mintarn.hak
 - feat
 - fog
 - hats
-- loadingscreen
 - onhit
 - placeables
 - restduration

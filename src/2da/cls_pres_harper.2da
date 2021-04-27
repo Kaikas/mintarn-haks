@@ -1,0 +1,12 @@
+2DA V2.0                                                     
+                                                             
+           LABEL        ReqType   ReqParam1        ReqParam2 
+0          Ueberzeugen  SKILL     12               8         
+1          Auftreten    SKILL     11               5         
+2          Taeuschen    SKILL     23               4         
+3          Motiverkenne SKILL     28               2         
+4          Alertness    FEAT      0                ****      
+5          IronWill     FEAT      22               ****      
+6          ScriptVar    VAR       X1_AllowHarper   0         
+7          Natur        SKILL     29               2         
+

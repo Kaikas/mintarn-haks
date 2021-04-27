@@ -1,0 +1,9 @@
+2DA V2.0
+
+    LABEL        ReqType  ReqParam1     ReqParam2
+0   Base_Attack  BAB      4             ****
+1   Entdecken    SKILL    17            2
+2   Lauschen     SKILL    6             2
+3   Einschuech   SKILL    24            1
+4   Ueberzeug    SKILL    12            1
+5   ScriptVar    VAR      DLA_AllowPDK  0

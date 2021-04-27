@@ -1,0 +1,16 @@
+2DA V2.0                                                         
+                                                                 
+           LABEL          ReqType   ReqParam1        ReqParam2   
+0          LeiseBewegen   SKILL     8                8           
+1          Verstecken     SKILL     5                8           
+2          ScriptVar      VAR       X1_AllowAsasin   0           
+3          Taeuschen      SKILL     23               4           
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 

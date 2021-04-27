@@ -1,0 +1,15 @@
+2DA V2.0                                                            
+                                                                    
+           LABEL             ReqType   ReqParam1        ReqParam2   
+0          Verstecken        SKILL     5                10          
+1          Leisebewegen      SKILL     8                8           
+2          Auftreten         SKILL     11               5           
+3          dodge             FEAT      10               ****        
+4          mobility          FEAT      26               ****        
+5          ScriptVar         VAR       X1_AllowShadow   0           
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    

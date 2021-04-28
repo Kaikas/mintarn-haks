@@ -15,3 +15,4 @@ Extracted the following haks into one mintarn.hak
 - spells
 - visualeffects
 - walk_final
+- laodingscreen

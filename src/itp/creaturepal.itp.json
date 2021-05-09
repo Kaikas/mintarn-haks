@@ -1,0 +1,133 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "DELETE_ME": {
+          "type": "cexostring",
+          "value": "ASSIGN TO NEW CATEGORY"
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6733
+        },
+        "TYPE": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "DELETE_ME": {
+          "type": "cexostring",
+          "value": "Tutorial"
+        },
+        "ID": {
+          "type": "byte",
+          "value": 46
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6732
+        }
+      },
+      {
+        "__struct_id": 0,
+        "DELETE_ME": {
+          "type": "cexostring",
+          "value": "SW"
+        },
+        "ID": {
+          "type": "byte",
+          "value": 201
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Monster"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 212
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Bosse"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 214
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Mobs"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 215
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Neutral"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 216
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "NPC"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 213
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Named"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 217
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "NEXT_USEABLE_ID": {
+    "type": "byte",
+    "value": 201
+  },
+  "RESTYPE": {
+    "type": "word",
+    "value": 2027
+  }
+}

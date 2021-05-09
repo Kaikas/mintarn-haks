@@ -1,0 +1,452 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "DELETE_ME": {
+          "type": "cexostring",
+          "value": "ASSIGN TO NEW CATEGORY"
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6733
+        },
+        "TYPE": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "DELETE_ME": {
+          "type": "cexostring",
+          "value": "Tutorial"
+        },
+        "ID": {
+          "type": "byte",
+          "value": 53
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6732
+        }
+      },
+      {
+        "__struct_id": 0,
+        "DELETE_ME": {
+          "type": "cexostring",
+          "value": "SW"
+        },
+        "ID": {
+          "type": "byte",
+          "value": 201
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Amulette"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 183
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Fallen"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 184
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Gürtel"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 185
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Handschuhe"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 186
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Handwerksmaterialien"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 187
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Helme"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 188
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Munition"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 189
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Nahrung"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 121
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Rohstoffe"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 203
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Schilde"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 204
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Schriftrollen"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 193
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Schuhe"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 120
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Tränke"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 123
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Umhänge"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 196
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Waffen"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 197
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Weitere"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 198
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Quest"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 199
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Rezepte"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 200
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Amulette"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 150
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Fallen"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 166
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Gürtel"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 165
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Handschuhe"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 153
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Helme"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 154
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Munition"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 155
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Nahrung"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 156
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Ringe"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 167
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Rüstung"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 158
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Schilde"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 159
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Schuhe"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 160
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Tränke"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 161
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Umhänge"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 162
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Waffen"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 163
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "DELETE_ME": {
+                      "type": "cexostring",
+                      "value": "Weitere"
+                    },
+                    "ID": {
+                      "type": "byte",
+                      "value": 164
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Rüstung"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 202
+              }
+            },
+            {
+              "__struct_id": 0,
+              "DELETE_ME": {
+                "type": "cexostring",
+                "value": "Ringe"
+              },
+              "ID": {
+                "type": "byte",
+                "value": 205
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "NEXT_USEABLE_ID": {
+    "type": "byte",
+    "value": 183
+  },
+  "RESTYPE": {
+    "type": "word",
+    "value": 2025
+  }
+}

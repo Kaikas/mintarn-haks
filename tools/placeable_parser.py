@@ -6,7 +6,7 @@ def value(json):
 
 def strref(json):
   if "STRREF" in json:
-    return json["STRREF"]["value"] - 16777217
+    return json["STRREF"]["value"] - 16777216
   else:
     return 0
 
@@ -26,10 +26,10 @@ for i in p_data["MAIN"]["value"]:
   print(value(i) + " [TLK: " + str(strref(i)) + "]: " + find_itp_string(t_data, strref(i)))
   if "LIST" in i:
     for j in i["LIST"]["value"]:
-      print("- " + value(j) + " [" + str(strref(j)) + "]")
+      print("- " + value(j) + " [TLK: " + str(strref(j)) + "]: " + find_itp_string(t_data, strref(j)))
       if "LIST" in j:
         for k in j["LIST"]["value"]:
-          print("-- " + value(j) + " [" + str(strref(j)) + "]")
+          print("-- " + value(k) + " [TLK: " + str(strref(k)) + "]: " + find_itp_string(t_data, strref(k)))
 placeable_file.close()
 tlk_file.close()
 

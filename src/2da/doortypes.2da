@@ -6565,4 +6565,6 @@
 6561      CliffBridgeGate       wm_sdoor_19      WSF10       nw_door_ttr_07     5349              1              1                7                
 6562      HobbitDoor            HobbitDoor       WSF10       nw_door_ttr_07     5349              1              1                1                
 6563      HobbitDoor2           HobbitDoor2      WSF10       nw_door_ttr_07     5349              1              1                1                
-
+6564        Dla_Ladder        DLA_Door_01    ****      dla_sewer_ladder 63537           0            1              35           
+6565        SewerGrate        sewerdoor_01   ****      dla_sewer_generi 63537           0            1              36           
+6566        SewerCave         TDE_UDoor_08   ****      dla_sewer_cave   63540           0            0              ****           

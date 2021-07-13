@@ -16,7 +16,7 @@
 12 Ueberzeugen      16777233 16777315    isk_persuade   1         CHA        0                 1                ****     ****  SKILL_PERSUADE         0            
 13 Fingerfertigkeit 16777234 16777316    isk_slofhand   0         DEX        1                 1                ****     ****  SKILL_SLEIGHT_OF_HAND  1            
 14 Untersuchen      16777236 16777306    isk_investi    1         INT        0                 1                ****     ****  SKILL_SEARCH           0            
-15 *SetTrap         16777320 16777321    isk_investi    1         DEX        1                 1                ****     ****  SKILL_DUMMY            0            
+15 *SetTrap         16777320 16777321    isk_investi    0         DEX        1                 0                ****     ****  SKILL_DUMMY            0            
 16 ArkaneKunde      16777237 16777307    isk_knowarc    0         INT        0                 1                ****     ****  SKILL_KNOW_ARCANA      0            
 17 Entdecken        16777239 16777317    isk_spot       1         WIS        0                 1                ****     ****  SKILL_SPOT             0            
 18 *Taunt           16777320 16777321    isk_spot       0         CHA        0                 0                ****     1     SKILL_DUMMY            1            

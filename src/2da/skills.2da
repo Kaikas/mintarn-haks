@@ -16,7 +16,7 @@
 12 Ueberzeugen      16777233 16777315    isk_persuade   1         CHA        0                 1                ****     ****  SKILL_PERSUADE         0            
 13 Fingerfertigkeit 16777234 16777316    isk_slofhand   0         DEX        1                 1                ****     ****  SKILL_SLEIGHT_OF_HAND  1            
 14 Untersuchen      16777236 16777306    isk_investi    1         INT        0                 1                ****     ****  SKILL_SEARCH           0            
-15 *SetTrap         16777320 16777321    isk_investi    0         DEX        1                 0                ****     ****  SKILL_DUMMY            0            
+15 Schreiner        16777218 16777222    isk_carpenter  1         INT        0                 1                ****     ****  SKILL_CRAFT_CARPENTER  0            
 16 ArkaneKunde      16777237 16777307    isk_knowarc    0         INT        0                 1                ****     ****  SKILL_KNOW_ARCANA      0            
 17 Entdecken        16777239 16777317    isk_spot       1         WIS        0                 1                ****     ****  SKILL_SPOT             0            
 18 *Taunt           16777320 16777321    isk_spot       0         CHA        0                 0                ****     1     SKILL_DUMMY            1            
@@ -34,7 +34,7 @@
 30 WissenReligion   16777243 16777310    isk_knowreli   0         INT        0                 1                ****     ****  SKILL_KNOW_RELIGION    0            
 31 Lederer          16777219 16777223    isk_leatherer  1         INT        0                 1                ****     ****  SKILL_CRAFT_LEATHERER  0            
 32 Schmied          16777217 16777221    isk_crftsmith  1         INT        0                 1                ****     ****  SKILL_CRAFT_SMITH      0            
-33 Schreiner        16777218 16777222    isk_carpenter  1         INT        0                 1                ****     ****  SKILL_CRAFT_CARPENTER  0            
+33 *SetTrap         16777320 16777321    isk_investi    0         DEX        1                 0                ****     ****  SKILL_DUMMY            0            
 34 Alchemist        16777220 16777224    isk_alchemist  1         INT        0                 1                ****     ****  SKILL_CRAFT_ALCHEMist  0            
 35 Athletik         16777225 16777298    isk_athletics  1         STR        1                 1                ****     ****  SKILL_ATHLETICS        0            
 36 Ueberleben       16777228 16777318    isk_survival   1         WIS        0                 1                ****     ****  SKILL_SURVIVAL         0            

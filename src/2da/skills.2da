@@ -3,14 +3,14 @@
    Label            Name     Description Icon           Untrained KeyAbility ArmorCheckPenalty AllClassesCanUse Category MaxCR Constant               HostileSkill 
 0  MitTierenUmgehen 16777227 16777302    isk_animhandl  1         WIS        0                 1                ****     1     SKILL_ANIMAL_HANDLING  1            
 1  Konzentration    16777230 16777299    isk_conc       1         CON        0                 1                ****     ****  SKILL_CONCENTRATION    0            
-2  *DisableTrap     16777320 16777321    isk_conc       0         INT        0                 0                ****     ****  SKILL_DUMMY            0            
+2  MechanismusAus   16777246 16777301    isk_disdev     0         DEX        0                 1                ****     ****  SKILL_DISABLE_DEVICE   0            
 3  *Discipline      16777320 16777321    isk_heal       0         STR        0                 0                ****     ****  SKILL_DUMMY            0            
 4  Heilkunde        16777226 16777312    isk_heal       1         WIS        0                 1                ****     1     SKILL_HEAL             0            
 5  Verstecken       16777241 16777303    isk_hide       1         DEX        1                 1                ****     ****  SKILL_HIDE             0            
 6  Lauschen         16777240 16777311    isk_listen     1         WIS        0                 1                ****     ****  SKILL_LISTEN           0            
 7  WissenWeltliches 16777238 16777308    isk_knowworld  0         INT        0                 1                ****     ****  SKILL_KNOW_LORE        0            
 8  LeiseBewegen     16777242 16777313    isk_movsilent  1         DEX        1                 1                ****     ****  SKILL_MOVE_SILENTLY    0            
-9  MechanismusAus   16777246 16777301    isk_disdev     0         DEX        0                 1                ****     ****  SKILL_DISABLE_DEVICE   0            
+9  Schmied          16777217 16777221    isk_crftsmith  1         INT        0                 1                ****     ****  SKILL_CRAFT_SMITH      0            
 10 *Parry           16777320 16777321    isk_disdev     0         DEX        1                 0                ****     1     SKILL_DUMMY            0            
 11 Auftreten        16777232 16777314    isk_perform    1         CHA        0                 1                ****     ****  SKILL_PERFORM          0            
 12 Ueberzeugen      16777233 16777315    isk_persuade   1         CHA        0                 1                ****     ****  SKILL_PERSUADE         0            
@@ -33,8 +33,7 @@
 29 Naturkunde       16777244 16777309    isk_knownat    0         INT        0                 1                ****     ****  SKILL_KNOW_NATURE      0            
 30 WissenReligion   16777243 16777310    isk_knowreli   0         INT        0                 1                ****     ****  SKILL_KNOW_RELIGION    0            
 31 Lederer          16777219 16777223    isk_leatherer  1         INT        0                 1                ****     ****  SKILL_CRAFT_LEATHERER  0            
-32 Schmied          16777217 16777221    isk_crftsmith  1         INT        0                 1                ****     ****  SKILL_CRAFT_SMITH      0            
-33 *SetTrap         16777320 16777321    isk_investi    0         DEX        1                 0                ****     ****  SKILL_DUMMY            0            
-34 Alchemist        16777220 16777224    isk_alchemist  1         INT        0                 1                ****     ****  SKILL_CRAFT_ALCHEMist  0            
-35 Athletik         16777225 16777298    isk_athletics  1         STR        1                 1                ****     ****  SKILL_ATHLETICS        0            
-36 Ueberleben       16777228 16777318    isk_survival   1         WIS        0                 1                ****     ****  SKILL_SURVIVAL         0            
+32 *SetTrap         16777320 16777321    isk_investi    0         DEX        1                 0                ****     ****  SKILL_DUMMY            0            
+33 Alchemist        16777220 16777224    isk_alchemist  1         INT        0                 1                ****     ****  SKILL_CRAFT_ALCHEMist  0            
+34 Athletik         16777225 16777298    isk_athletics  1         STR        1                 1                ****     ****  SKILL_ATHLETICS        0            
+35 Ueberleben       16777228 16777318    isk_survival   1         WIS        0                 1                ****     ****  SKILL_SURVIVAL         0            

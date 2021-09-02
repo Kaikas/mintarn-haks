@@ -43709,6 +43709,10 @@
         {
             "id": 192500,
             "text": "[CEP] Door 1500"
+        },
+		{
+            "id": 192501,
+            "text": "Dieses Talent gibt deinem Charakter die Möglichkeit mit Hilfe eines Wurfes auf die Fertigkeit \u00dcberleben Spuren zu finden oder zu folgen."
         }
     ]
 }

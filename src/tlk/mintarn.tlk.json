@@ -43713,6 +43713,10 @@
 		{
             "id": 192501,
             "text": "Dieses Talent gibt deinem Charakter die Möglichkeit mit Hilfe eines Wurfes auf die Fertigkeit \u00dcberleben Spuren zu finden oder zu folgen."
+        },
+		{
+            "id": 192502,
+            "text": "Spuren lesen"
         }
     ]
 }

@@ -3,7 +3,7 @@
    Label            Name     Description Icon           Untrained KeyAbility ArmorCheckPenalty AllClassesCanUse Category MaxCR Constant               HostileSkill 
 0  MitTierenUmgehen 16777227 16777302    isk_animhandl  1         WIS        0                 1                ****     1     SKILL_ANIMAL_HANDLING  1            
 1  Konzentration    16777230 16777299    isk_conc       1         CON        0                 1                ****     ****  SKILL_CONCENTRATION    0            
-2  MechanismusAus   16777246 16777301    isk_disdev     0         DEX        0                 1                ****     ****  SKILL_DISABLE_DEVICE   0            
+2  MechanismusAus   16777246 16777301    isk_disdev     0         INT        0                 1                ****     ****  SKILL_DISABLE_DEVICE   0            
 3  *Discipline      16777320 16777321    isk_heal       0         STR        0                 0                ****     ****  SKILL_DUMMY            0            
 4  Heilkunde        16777226 16777312    isk_heal       1         WIS        0                 1                ****     1     SKILL_HEAL             0            
 5  Verstecken       16777241 16777303    isk_hide       1         DEX        1                 1                ****     ****  SKILL_HIDE             0            

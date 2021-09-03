@@ -43717,6 +43717,14 @@
 		{
             "id": 192502,
             "text": "Spuren lesen"
+        },
+				{
+            "id": 192503,
+            "text": "Dein Charakter hinterlässt in natürlicher Umgebung keine Spuren und kann dementsprechend auch nicht mehr verfolgt werden. Er kann sich jedoch entscheiden, eine Spur zu hinterlassen, wenn er will."
+        },
+		{
+            "id": 192504,
+            "text": "Spurloser Schritt"
         }
     ]
 }

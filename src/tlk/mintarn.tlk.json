@@ -43728,7 +43728,7 @@
         },
 				{
             "id": 192505,
-            "text": "Art des Talents: Allgemein \n\n Talent kann nur auf der 1. Stufe gewählt werden. \n\n Vorteil: Der Charakter erhält +2 auf Würfe für Untersuchen und \u00dcberzeugen"
+            "text": "Art des Talents: Allgemein \nVoraussetzung:Talent kann nur auf der 1. Stufe gewählt werden. \nVorteil: Der Charakter erhält +2 auf Würfe für Untersuchen und \u00dcberzeugen"
         }
     ]
 }

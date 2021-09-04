@@ -43725,6 +43725,10 @@
 		{
             "id": 192504,
             "text": "Spurloser Schritt"
+        },
+				{
+            "id": 192505,
+            "text": "Art des Talents: Allgemein \n\n Talent kann nur auf der 1. Stufe gewählt werden. \n\n Vorteil: Der Charakter erhält +2 auf Würfe für Untersuchen und \u00dcberzeugen"
         }
     ]
 }

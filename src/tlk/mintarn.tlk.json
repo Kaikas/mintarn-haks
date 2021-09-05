@@ -43720,15 +43720,19 @@
         },
 				{
             "id": 192503,
-            "text": "Dein Charakter hinterlässt in natürlicher Umgebung keine Spuren und kann dementsprechend auch nicht mehr verfolgt werden. Er kann sich jedoch entscheiden, eine Spur zu hinterlassen, wenn er will."
+            "text": "Dein Charakter hinterl\u00e4sst in nat\u00fcrlicher Umgebung keine Spuren und kann dementsprechend auch nicht mehr verfolgt werden. Er kann sich jedoch entscheiden, eine Spur zu hinterlassen, wenn er will."
         },
 		{
             "id": 192504,
             "text": "Spurloser Schritt"
         },
-				{
+		{
             "id": 192505,
             "text": "Art des Talents: Allgemein \nVoraussetzung:Talent kann nur auf der 1. Stufe gewählt werden. \nVorteil: Der Charakter erhält +2 auf Würfe für Untersuchen und \u00dcberzeugen"
+        },
+		{
+            "id": 192506,
+            "text": "Silberne Handfl\u00e4che"
         }
     ]
 }

@@ -43755,12 +43755,20 @@
             "text": "Tiergef\u00e4hrte Typ: Ausgeglichen"
         },
 				{
-            "id": 192510,
+            "id": 192512,
             "text": "Dobermann"
         },
 		{
-            "id": 192511,
+            "id": 192513,
             "text": "Tiergef\u00e4hrte Typ: Defensiv"
+        },
+				{
+            "id": 192514,
+            "text": "Adler"
+        },
+		{
+            "id": 192515,
+            "text": "Tiergef\u00e4hrte Typ: Offensiv"
         }
     ]
 }

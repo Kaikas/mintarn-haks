@@ -132,4 +132,5 @@
 128    PLAYER_TOOL_08                                     1113         1      99               1
 129    PLAYER_TOOL_09                                     1114         1      99               1
 130    PLAYER_TOOL_10                                     1115         1      99               1
-131    FEAT_TRACK                                         1125         3      1                0  
+131    FEAT_TRACK                                         1125         3      1                0
+1128   TracklessStep                                      1128         3      7               0        

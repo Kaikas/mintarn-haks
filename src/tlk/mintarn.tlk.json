@@ -43769,6 +43769,14 @@
 		{
             "id": 192515,
             "text": "Tiergef\u00e4hrte Typ: Offensiv"
+        },
+				{
+            "id": 192516,
+            "text": "Unterholz durchqueren"
+        },
+		{
+            "id": 192517,
+            "text": "Der Charakter kann sich durch jede Art von Unterholz (wie nat\u00fcrliche Dornen, Gespr\u00fcpp, \u00fcberwuchertes Gel\u00e4nde und \u00e4hnliches Terrain) mit seiner normalen Bewegungsrate bewegen, ohne Schaden zu erleiden oder in irgendeiner Form behindert zu werden. Er wird jedoch noch immer von Dornen, Gestr\u00fcpp und \u00fcberwuchertem Gel\u00e4nde betroffen, das jemand magisch manipuliert hat, um Bewegungen zu beeintr\u00e4chtigen."
         }
     ]
 }

@@ -43777,6 +43777,14 @@
 		{
             "id": 192517,
             "text": "Der Charakter kann sich durch jede Art von Unterholz (wie nat\u00fcrliche Dornen, Gespr\u00fcpp, \u00fcberwuchertes Gel\u00e4nde und \u00e4hnliches Terrain) mit seiner normalen Bewegungsrate bewegen, ohne Schaden zu erleiden oder in irgendeiner Form behindert zu werden. Er wird jedoch noch immer von Dornen, Gestr\u00fcpp und \u00fcberwuchertem Gel\u00e4nde betroffen, das jemand magisch manipuliert hat, um Bewegungen zu beeintr\u00e4chtigen."
+        },
+				{
+            "id": 192518,
+            "text": "Naturgesp\u00fcr"
+        },
+		{
+            "id": 192519,
+            "text": "Ein Druide erh\u00e4lt einen Bonus von +2 auf seine Fertigkeitswürfe für Wissen (Natur) und \u00dcberleben"
         }
     ]
 }

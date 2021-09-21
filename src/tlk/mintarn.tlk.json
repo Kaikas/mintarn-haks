@@ -43785,6 +43785,38 @@
 		{
             "id": 192519,
             "text": "Ein Druide erh\u00e4lt einen Bonus von +2 auf seine Fertigkeitswürfe für Wissen (Natur) und \u00dcberleben"
+        },
+		{
+            "id": 192520,
+            "text": "Waldl\u00e4ufer 3.5"
+        },
+		{
+            "id": 192521,
+            "text": "Waldl\u00e4ufer"
+        },
+		{
+            "id": 192522,
+            "text": "waldl\u00e4ufer"
+        },
+		{
+            "id": 192523,
+            "text": "Waldl\u00e4ufer gemäß D&D Spielerhandbuch 3.5 (Zwei Waffen Kampf) \nWaldl\u00e4ufer sind geschulte Pirscher und J\u00e4ger, die sich in den weiten W\u00e4ldern Faer\u00fbns wohl f\u00fchlen. Sie sind beinahe ebenso geschult im Kampf wie der K\u00e4mpfer. Es mangelt ihnen jedoch an der Bereitschaft, unz\u00e4hlige Stunden zu trainieren, um ihre Fertigkeiten zu perfektionieren. Der Waldl\u00e4ufer konzentriert sich vielmehr darauf zu lernen, wie man besonders effektiv gegen bestimmte Kreaturen k\u00e4mpft. Bei diesen Erzfeinden handelt es sich um Wesen, die aus irgendeinem Grund den Groll des Waldl\u00e4ufers auf sich gezogen haben und deren Vernichtung er sich nun zum Ziel gesetzt hat. Waldl\u00e4ufer \u00fcbernehmen oft die Rolle eines Besch\u00fctzers f\u00fcr jene, die in seinem Wald leben oder ihn durchqueren. In der Wildnis verf\u00fcgt er \u00fcber die F\u00e4higkeit, sich effektiv zu verstecken und lautlos zu bewegen. Au\u00dferdem verf\u00fcgt er \u00fcber genaue Kenntnisse \u00fcber die Gewohnheiten verschiedener Kreaturen. Auf hohen Stufen entwickelt der Waldl\u00e4ufer ein so enges Band zur Natur, dass er \u00e4hnlich wie ein Druide die Kr\u00e4fte der Natur nutzen kann, um g\u00f6ttliche Magie zu wirken. Waldl\u00e4ufer lassen sich oft von ihren Tiergef\u00e4hrten begleiten. Ein Waldl\u00e4ufer sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Waldl\u00e4ufer die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Waldl\u00e4ufer einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 3. Grades wirken zu k\u00f6nnen, muss der Waldl\u00e4ufer einen Weisheitswert von 13 haben.\n\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Alle einfachen Waffen und Kriegswaffen; alle leichten und mittelschweren R\u00fcstungen und Schilde.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 6 + IN-Modifikator.\n- Fertigkeiten: Athletik, Entdecken, Heilkunde, Konzentration, Lauschen, Leise bewegen, Mit Tieren umgehen, Untersuchen, Verstecken, Wissen: Natur, \u00dcberleben, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber: G\u00f6ttliche Zauber (\u00e4hnliche Zauber wie Druide mit eingeschr\u00e4nkter Auswahl, Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht)."
+        },
+		{
+            "id": 192524,
+            "text": "Ausdauer"
+        },
+		{
+            "id": 192525,
+            "text": "Dein Charakter ist zu erstaunlichen Ausdauerleistungen imstande. Vorteil: Dein Charakter erh\u00e4lten einen Bonus von +4 auf die folgenden W\u00fcrfe und Rettungsw\u00fcrfe: W\u00fcrfe f\u00fcr Athletik um nichtt\u00f6dlichem Schaden zu widerstehen, um nichtt\u00f6dlichen Schaden aufgrund eines Gewaltmarsches zu vermeiden, um den Atem anzuhalten, um nichtt\u00f6dlichen Schaden durch Hunger oder Durst zu vermeiden, Z\u00e4higkeitsw\u00fcrfe, um nichtt\u00f6dlichen Schaden durch heiße oder kalte Umgebungen zu vermeiden und Z\u00e4higkeitsw\u00fcrfe, um nichtt\u00f6dlichen Schaden durch Sauerstoffmangel zu vermeiden. Außerdem kann dein Charakter in leichter oder mittelschwerer R\u00fcstung schlafen, ohne dabei ersch\u00f6pft zu werden. \nNormal: Ein Charakter, der ohne dieses Talent in mittelschwerer oder schwererer R\u00fcstung schl\u00e4ft, ist am n\u00e4chsten Tag ersch\u00f6pft. \nSpeziell: Auf der 3. Stufe erh\u00e4lt ein Waldl\u00e4ufer Ausdauer automatisch als Bonustalent. Er braucht es also nicht auszu\u00e4hlen."
+        },
+		{
+            "id": 192526,
+            "text": "Schneller Verfolger"
+        },
+		{
+            "id": 192527,
+            "text": "Ab der 8. Stufe kann der Waldl\u00e4ufer Spuren mit seiner normalen Bewegungsrate folgen, ohne den \u00fcblichen Malus von -5 hinnehmen zu m\u00fcssen. Wenn er Spuren folgt und sich dabei mit bis zum Doppelten seiner Bewegungsrate bewegt, erleidet er nur einen Malus von -10 (anstatt der normalen -20)."
         }
     ]
 }

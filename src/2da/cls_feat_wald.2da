@@ -13,7 +13,7 @@
 9     TwoWaepon                                            41          3      6                0        
 10    WeapProfSim                                          46          3      1                0        
 11    ArmProfLgt                                           3           3      1                0        
-12    ArmProfMed                                           4           3      1                0        
+12    ArmProfMed                                           4           3      21               0        
 13    Shield                                               32          3      1                0        
 14    WeapProfMar                                          45          3      1                0        
 15    FE_Dwarf                                             261         2      -1               0        
@@ -133,7 +133,7 @@
 129    PLAYER_TOOL_09                                     1114         1      99               1
 130    PLAYER_TOOL_10                                     1115         1      99               1
 131    FEAT_TRACK                                         1125         3      1                0
-132    TracklessStep                                      1128         3      7                0
+132    Woodlandstride                                     1128         3      7                0
 133    ImpTwoWaepon                                         20         3      11               0       
 134    HIDE_IN_PLAIN_SIGHT                                 433         3      17               0    
 135    EVASION                                             206         3      9                0    

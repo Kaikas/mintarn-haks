@@ -43817,6 +43817,22 @@
 		{
             "id": 192527,
             "text": "Ab der 8. Stufe kann der Waldl\u00e4ufer Spuren mit seiner normalen Bewegungsrate folgen, ohne den \u00fcblichen Malus von -5 hinnehmen zu m\u00fcssen. Wenn er Spuren folgt und sich dabei mit bis zum Doppelten seiner Bewegungsrate bewegt, erleidet er nur einen Malus von -10 (anstatt der normalen -20)."
+        },
+		{
+            "id": 192528,
+            "text": "Tarnung"
+        },
+		{
+            "id": 192529,
+            "text": "Ab der 13. Stufe kann der Waldl\u00e4ufer die Fertigkeit Verstecken in jeder natürlichen Umgebung benutzen, selbst wenn das Gel\u00e4nde normalerweise keine Deckung oder Tarnung b\u00f6te."
+        },
+		{
+            "id": 192530,
+            "text": "Mehrfachschuss"
+        },
+		{
+            "id": 192531,
+            "text": "Dein Charakter kann mehrere Pfeile gleichzeitig auf ein nahes Ziel abschießen. \nVoraussetzung: GE 17+, Kernschuß, Schnelles Schießen, Grund-Angriffsbonus +6 oder h\u00f6her \nVorteil: Dein Charakter kann als Standard-Aktion 2 Pfeile auf einen einzelnen Gegner innerhalb von 9 m abschießen. F\u00fcr beide Pfeile wird derselbe Angriffswurf (mit einem Malus von -4) verwendet, um zu ermitteln, ob sie treffen, und beide verursachen normal Schaden. Pro 5 Punkte, die Ihr Grund-Angriffsbonus \u00fcber +6 liegt, kann dein Charakter diesem Angriff einen weiteren Pfeil hinzuf\u00fcgen, bis zu einem Maximum von 4 Pfeilen bei einem Grund-Angriffsbonus von +16. Jeder Pfeil nach dem Zweiten sorgt jedoch f\u00fcr einen kumulativen Malus von -2 auf den Angriffswurf, was zu einem Gesamtmalus von -6 bei drei und -8 bei vier Pfeilen f\u00fchrt. Schadensreduzierung und andere Resistenzen werden auf jeden abgeschossenen Pfeil einzeln angewendet. \nSpeziell: Ungeachter der Anzahl der Pfeile, die dein Charakter abschießt abschießt, verursachen Sie nur einmal Schaden, der auf Pr\u00e4zision basiert (wie beispielsweise den Schaden eines hinterh\u00e4ltigen Angriffs). Wenn dein Charakter einen kritischen Treffer erzielt, verursacht nur der erste Pfeil kritischen Schaden, alle anderen verursachen normalen. \nEin Waldl\u00e4ufer der 6. Stufe, der den Kampfstil Bogenschießen gew\u00e4hlt hat und leichte oder keine R\u00fcstung tr\u00e4gt, wird behandelt, als bes\u00e4ße er das Talent Mehrfachschuß, selbst wenn er dessen Voraussetzungen nicht erf\u00fcllt."
         }
     ]
 }

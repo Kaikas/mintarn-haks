@@ -2499,11 +2499,7 @@
         "DELETE_ME": {
           "type": "cexostring",
           "value": "Hakpaks"
-        },
-        "ID": {
-          "type": "byte",
-          "value": 185
-        },
+        },        
         "LIST": {
           "type": "list",
           "value": [
@@ -2515,7 +2511,7 @@
             },
             "ID": {
               "type": "byte",
-              "value": 186
+              "value": 192
             },
             "STRREF": {
               "type": "dword",
@@ -2530,7 +2526,7 @@
             },
             "ID": {
               "type": "byte",
-              "value": 187
+              "value": 193
             },
             "STRREF": {
               "type": "dword",
@@ -2545,7 +2541,7 @@
             },
             "ID": {
               "type": "byte",
-              "value": 188
+              "value": 194
             },
             "STRREF": {
               "type": "dword",
@@ -2560,7 +2556,7 @@
             },
             "ID": {
               "type": "byte",
-              "value": 189
+              "value": 195
             },
             "STRREF": {
               "type": "dword",
@@ -2575,7 +2571,7 @@
             },
             "ID": {
               "type": "byte",
-              "value": 190
+              "value": 196
             },
             "STRREF": {
               "type": "dword",
@@ -2593,7 +2589,7 @@
     },
     "NEXT_USEABLE_ID": {
       "type": "byte",
-      "value": 192
+      "value": 197
     },
     "RESTYPE": {
       "type": "word",

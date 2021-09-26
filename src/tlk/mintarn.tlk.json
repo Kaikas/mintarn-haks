@@ -43836,7 +43836,43 @@
         },
 		{
             "id": 192532,
-            "text": "Waldl\u00e4ufer gemäß D&D Spielerhandbuch 3.5 (Fernkampf) \nWaldl\u00e4ufer sind geschulte Pirscher und J\u00e4ger, die sich in den weiten W\u00e4ldern Faer\u00fbns wohl f\u00fchlen. Sie sind beinahe ebenso geschult im Kampf wie der K\u00e4mpfer. Es mangelt ihnen jedoch an der Bereitschaft, unz\u00e4hlige Stunden zu trainieren, um ihre Fertigkeiten zu perfektionieren. Der Waldl\u00e4ufer konzentriert sich vielmehr darauf zu lernen, wie man besonders effektiv gegen bestimmte Kreaturen k\u00e4mpft. Bei diesen Erzfeinden handelt es sich um Wesen, die aus irgendeinem Grund den Groll des Waldl\u00e4ufers auf sich gezogen haben und deren Vernichtung er sich nun zum Ziel gesetzt hat. Waldl\u00e4ufer \u00fcbernehmen oft die Rolle eines Besch\u00fctzers f\u00fcr jene, die in seinem Wald leben oder ihn durchqueren. In der Wildnis verf\u00fcgt er \u00fcber die F\u00e4higkeit, sich effektiv zu verstecken und lautlos zu bewegen. Au\u00dferdem verf\u00fcgt er \u00fcber genaue Kenntnisse \u00fcber die Gewohnheiten verschiedener Kreaturen. Auf hohen Stufen entwickelt der Waldl\u00e4ufer ein so enges Band zur Natur, dass er \u00e4hnlich wie ein Druide die Kr\u00e4fte der Natur nutzen kann, um g\u00f6ttliche Magie zu wirken. Waldl\u00e4ufer lassen sich oft von ihren Tiergef\u00e4hrten begleiten. Ein Waldl\u00e4ufer sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Waldl\u00e4ufer die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Waldl\u00e4ufer einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 3. Grades wirken zu k\u00f6nnen, muss der Waldl\u00e4ufer einen Weisheitswert von 13 haben.\n\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Alle einfachen Waffen und Kriegswaffen; alle leichten und mittelschweren R\u00fcstungen und Schilde.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 6 + IN-Modifikator.\n- Fertigkeiten: Athletik, Entdecken, Heilkunde, Konzentration, Lauschen, Leise bewegen, Mit Tieren umgehen, Untersuchen, Verstecken, Wissen: Natur, \u00dcberleben, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber: G\u00f6ttliche Zauber (\u00e4hnliche Zauber wie Druide mit eingeschr\u00e4nkter Auswahl, Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht)."
+            "text": "Druide 3.5"
+        },
+		{
+            "id": 192533,
+            "text": "Druiden"
+        },
+		{
+            "id": 192534,
+            "text": "druide"
+        },
+		{
+            "id": 192535,
+            "text": "Druide gemäß D&D Spielerhandbuch 3.5 \nDruiden sind Anwender g\u00f6ttlicher Magie, die ihre Zauber allerdings nicht von den G\u00f6ttern, sondern von den Kr\u00e4ften der Natur beziehen. Sie streben danach, mit der Natur in Harmonie zu leben und verabscheuen alles, das nicht Teil des nat\u00fcrlichen Laufs der Dinge ist. Vor allem Aberrationen und Untote sind ihnen ein Dorn im Auge. Wenn sie m\u00e4chtiger werden, k\u00f6nnen sie die Gestalt von Tieren und sp\u00e4ter sogar von noch m\u00e4chtigeren Wesen annehmen. Die Druiden haben einen strengen Schwur abgeleistet. Daher d\u00fcrfen sie keinerlei Waffen und R\u00fcstungen verwenden, die sich die Druidenschaft sozusagen selbst verboten hat. Ein Druide sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Druiden die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Druide einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 4. Grades wirken zu k\u00f6nnen, muss der Druide einen Weisheitswert von 14 haben.\n\n- Gesinnung: Muss eine neutral gute, rechtschaffen neutrale, neutrale, chaotisch neutrale oder neutral b\u00f6se Gesinnung haben.\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Fertigkeit im Umgang mit Waffen, die Druiden gestattet sind, sowie mit leichten und mittelschweren R\u00fcstungen und Schilden.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 4 + IN-Modifikator.\n- Fertigkeiten: Entdecken, Heilkunde, Konzentration, Lauschen, Mit Tieren umgehen, Wissen: Arkanes, Wissen: Natur, \u00dcberleben, \u00dcberzeugen, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber wirken: G\u00f6ttliche Zauber (Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht).\n- Ehemalige Druiden: Ein Druide, der keine neutrale Gesinnung hat, kann keine Stufen aufsteigen."
+        },
+		{
+            "id": 192536,
+            "text": "Tierempathie"
+        },
+		{
+            "id": 192537,
+            "text": "Ein Druide oder Waldl\u00e4ufer kann seine K\u00f6rpersprache, seine Stimmlage und sein Verhalten dazu einsetzen, die Einstellung eines Tiers (etwa eines B\u00e4ren oder einer Riesenechse) zu verbessern. Die F\u00e4higkeit funktioniert genau wie ein Fertigkeitswurf f\u00fcr Diplomatie, den man macht, um die Einstellung einer Person zu verbessern. Der Druide oder Waldl\u00e4ufer w\u00fcrfelt mit 1W20 und addiert sowohl seine Klassenstufe als Druide oder Waldl\u00e4ufer wie auch seinen Charismamodifikator zum W\u00fcrfelergebnis, um das Ergebnis des Wurfes f\u00fcr Tierempathie zu bestimmen. Die Einstellung eines durchschnittlichen Haustiers ist anfangs meist gleichg\u00fcltig; die Einstellung eines wildes Tieres ist anf\u00e4nglich in der Regel unfreundlich. Um Tierempathie einsetzen zu k\u00f6nnen, m\u00fcssen Druide oder Waldl\u00e4ufer und Tier in der Lage sein, einander zu studieren; sie m\u00fcssen sich also in 9 m Entfernung voneinander befinden, und die Umst\u00e4nde m\u00fcssen normal sein. In der Regel dauert die Beeinflussung eines Tieres auf diese Art und Weise etwa eine Minute, aber wie bei der Beeinflussung von Leuten auch kann diese Zeit mal l\u00e4nger und mal k\u00fcrzer sein. Ein Druide oder Waldl\u00e4ufer kann diese F\u00e4higkeit auch dazu einsetzen, eine Magische Bestie mit einem Intelligenz-Wert von 1 oder 2 (etwa einen Basilisken oder einen Girallon) zu beeinflussen, aber er erleidet auf diesen Wurf einen Malus von -4."
+        },
+		{
+            "id": 192538,
+            "text": "Tausend Gesichter"
+        },
+		{
+            "id": 192539,
+            "text": "Auf der 13. Stufe erh\u00e4lt der Druide die F\u00e4higkeit, sein Aussehen nach Belieben zu ver\u00e4ndern, als w\u00fcrde er den Zauber Gestalt ver\u00e4ndern nutzen. Er kann diese F\u00e4higkeit nur in seiner normalen Gestalt einsetzen."
+        },
+		{
+            "id": 192540,
+            "text": "Zeitloser Körper"
+        },
+		{
+            "id": 192541,
+            "text": "Wenn er die 15. Stufe erreicht hat, erleidet der Druide keine altersbedingten Mali auf seine Attribute mehr, und er kann nicht auf magische Weise gealtert werden. Bereits erlittene Mali bleiben aber bestehen. Der Druide erh\u00e4lt weiter die entsprechenden Boni und stirbt ganz normal, wenn seine Zeit gekommen ist."
         }
     ]
 }

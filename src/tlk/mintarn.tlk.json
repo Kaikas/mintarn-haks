@@ -43873,6 +43873,10 @@
 		{
             "id": 192541,
             "text": "Wenn er die 15. Stufe erreicht hat, erleidet der Druide keine altersbedingten Mali auf seine Attribute mehr, und er kann nicht auf magische Weise gealtert werden. Bereits erlittene Mali bleiben aber bestehen. Der Druide erh\u00e4lt weiter die entsprechenden Boni und stirbt ganz normal, wenn seine Zeit gekommen ist."
+        },
+		{
+            "id": 192542,
+            "text": "Schleiereule"
         }
     ]
 }

@@ -13,7 +13,7 @@
 9     TwoWaepon                                            41          3      6                0        
 10    WeapProfSim                                          46          3      1                0        
 11    ArmProfLgt                                           3           3      1                0        
-12    ArmProfMed                                           4           3      21               0        
+12    TierEmpathie                                         1134        3      1                0
 13    Shield                                               32          3      1                0        
 14    WeapProfMar                                          45          3      1                0        
 15    FE_Dwarf                                             261         2      -1               0        
@@ -140,5 +140,4 @@
 136    Ausdauer                                           1130         3      3                0   
 137    SchnellerVerfolger                                 1131         3      8                0   
 138    Ambidex                                               1         3      2                0   
-139    Tarnung                                            1132         3      13               0
-140    TierEmpathie                                       1134         3      1                0
+139    Tarnung                                            1132         3      13               0 

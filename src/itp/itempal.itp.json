@@ -37,15 +37,130 @@
                 "__struct_id": 0,
                 "DELETE_ME": {
                     "type": "cexostring",
-                    "value": "SW"
+                    "value": "Mintarn"
                 },
                 "ID": {
                     "type": "byte",
-                    "value": 201
+                    "value": 0
                 },
                 "LIST": {
                     "type": "list",
                     "value": [
+                        {
+                            "__struct_id": 0,
+                            "DELETE_ME": {
+                                "type": "cexostring",
+                                "value": "Rüstungen"
+                            },
+                            "ID": {
+                                "type": "byte",
+                                "value": 1
+                            },
+                            "LIST": {
+                                "type": "list",
+                                "value": [
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Kleidung (RK 0)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 2
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Leicht (RK 1)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 3
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Leicht (RK 2)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 4
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Leicht (RK 3)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 5
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Mittel (RK 4)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 6
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Mittel (RK 5)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 7
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Schwer (RK 6)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 8
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Schwer (RK 7)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 9
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Schwer (RK 8)"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 10
+                                        }
+                                  }
+                                ]
+                              }
+                        },
                         {
                             "__struct_id": 0,
                             "DELETE_ME": {
@@ -894,7 +1009,7 @@
     },
     "NEXT_USEABLE_ID": {
         "type": "byte",
-        "value": 249
+        "value": 1010
     },
     "RESTYPE": {
         "type": "word",

@@ -719,6 +719,70 @@
             "text": "Professionell"
         },
         {
+            "id": 194,
+            "text": "Magisch"
+        },
+        {
+            "id": 195,
+            "text": "Magisch:"
+        },
+        {
+            "id": 196,
+            "text": "Gew\u00f6hnlich"
+        },
+        {
+            "id": 197,
+            "text": "Ungew\u00f6hnlich"
+        },
+        {
+            "id": 198,
+            "text": "Selten"
+        },
+        {
+            "id": 199,
+            "text": "Sehr selten"
+        },
+        {
+            "id": 200,
+            "text": "Legend\u00e4r"
+        },
+        {
+            "id": 201,
+            "text": "Rüstungsklasse: 0\nMaximaler GE-Bonus: -\nRüstungsmalus: 0\nChance für arkane Zauberpatzer: 0%\nVoraussetzungen: Keine\n"
+        },
+        {
+            "id": 202,
+            "text": "Rüstungsklasse: 1\nMaximaler GE-Bonus: 8\nRüstungsmalus: 0\nChance für arkane Zauberpatzer: 5%\nVoraussetzungen: Umgang mit leichten Rüstungen"
+        },
+        {
+            "id": 203,
+            "text": "Rüstungsklasse: 2\nMaximaler GE-Bonus: 7\nRüstungsmalus: 0\nChance für arkane Zauberpatzer: 10%\nVoraussetzungen: Umgang mit leichten Rüstungen"
+        },
+        {
+            "id": 204,
+            "text": "Rüstungsklasse: 3\nMaximaler GE-Bonus: 6\nRüstungsmalus: -1\nChance für arkane Zauberpatzer: 15%\nVoraussetzungen: Umgang mit leichten Rüstungen"
+        },
+        {
+            "id": 205,
+            "text": "Rüstungsklasse: 4\nMaximaler GE-Bonus: 5\nRüstungsmalus: -3\nChance für arkane Zauberpatzer: 20%\nVoraussetzungen: Umgang mit mittelschweren Rüstungen"
+        },
+        {
+            "id": 206,
+            "text": "Rüstungsklasse: 5\nMaximaler GE-Bonus: 4\nRüstungsmalus: -4\nChance für arkane Zauberpatzer: 25%\nVoraussetzungen: Umgang mit mittelschweren Rüstungen"
+        },
+        {
+            "id": 207,
+            "text": "Rüstungsklasse: 6\nMaximaler GE-Bonus: 3\nRüstungsmalus: -6\nChance für arkane Zauberpatzer: 30%\nVoraussetzungen: Umgang mit schweren Rüstungen"
+        },
+        {
+            "id": 208,
+            "text": "Rüstungsklasse: 7\nMaximaler GE-Bonus: 2\nRüstungsmalus: -7\nChance für arkane Zauberpatzer: 35%\nVoraussetzungen: Umgang mit schweren Rüstungen"
+        },
+        {
+            "id": 209,
+            "text": "Rüstungsklasse: 8\nMaximaler GE-Bonus: 1\nRüstungsmalus: -8\nChance für arkane Zauberpatzer: 45%\nVoraussetzungen: Umgang mit schweren Rüstungen"
+        },
+        {
             "id": 224,
             "text": "Lighting"
         },
@@ -43712,7 +43776,7 @@
         },
 		{
             "id": 192501,
-            "text": "Dieses Talent gibt deinem Charakter die Möglichkeit mit Hilfe eines Wurfes auf die Fertigkeit \u00dcberleben Spuren zu finden oder zu folgen."
+            "text": "Dieses Talent gibt deinem Charakter die M\u00f6glichkeit mit Hilfe eines Wurfes auf die Fertigkeit \u00dcberleben Spuren zu finden oder zu folgen."
         },
 		{
             "id": 192502,
@@ -43728,7 +43792,7 @@
         },
 		{
             "id": 192505,
-            "text": "Art des Talents: Allgemein \nVoraussetzung:Talent kann nur auf der 1. Stufe gewählt werden. \nVorteil: Der Charakter erhält +2 auf Würfe für Untersuchen und \u00dcberzeugen"
+            "text": "Art des Talents: Allgemein \nVoraussetzung:Talent kann nur auf der 1. Stufe gew\u00e4hlt werden. \nVorteil: Der Charakter erh\u00e4lt +2 auf W\u00e4rfe f\u00e4r Untersuchen und \u00dcberzeugen"
         },
 		{
             "id": 192506,
@@ -43784,7 +43848,7 @@
         },
 		{
             "id": 192519,
-            "text": "Ein Druide erh\u00e4lt einen Bonus von +2 auf seine Fertigkeitswürfe für Wissen (Natur) und \u00dcberleben"
+            "text": "Ein Druide erh\u00e4lt einen Bonus von +2 auf seine Fertigkeitsw\u00e4rfe f\u00e4r Wissen (Natur) und \u00dcberleben"
         },
 		{
             "id": 192520,
@@ -43800,7 +43864,7 @@
         },
 		{
             "id": 192523,
-            "text": "Waldl\u00e4ufer gemäß D&D Spielerhandbuch 3.5 (Zwei Waffen Kampf) \nWaldl\u00e4ufer sind geschulte Pirscher und J\u00e4ger, die sich in den weiten W\u00e4ldern Faer\u00fbns wohl f\u00fchlen. Sie sind beinahe ebenso geschult im Kampf wie der K\u00e4mpfer. Es mangelt ihnen jedoch an der Bereitschaft, unz\u00e4hlige Stunden zu trainieren, um ihre Fertigkeiten zu perfektionieren. Der Waldl\u00e4ufer konzentriert sich vielmehr darauf zu lernen, wie man besonders effektiv gegen bestimmte Kreaturen k\u00e4mpft. Bei diesen Erzfeinden handelt es sich um Wesen, die aus irgendeinem Grund den Groll des Waldl\u00e4ufers auf sich gezogen haben und deren Vernichtung er sich nun zum Ziel gesetzt hat. Waldl\u00e4ufer \u00fcbernehmen oft die Rolle eines Besch\u00fctzers f\u00fcr jene, die in seinem Wald leben oder ihn durchqueren. In der Wildnis verf\u00fcgt er \u00fcber die F\u00e4higkeit, sich effektiv zu verstecken und lautlos zu bewegen. Au\u00dferdem verf\u00fcgt er \u00fcber genaue Kenntnisse \u00fcber die Gewohnheiten verschiedener Kreaturen. Auf hohen Stufen entwickelt der Waldl\u00e4ufer ein so enges Band zur Natur, dass er \u00e4hnlich wie ein Druide die Kr\u00e4fte der Natur nutzen kann, um g\u00f6ttliche Magie zu wirken. Waldl\u00e4ufer lassen sich oft von ihren Tiergef\u00e4hrten begleiten. Ein Waldl\u00e4ufer sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Waldl\u00e4ufer die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Waldl\u00e4ufer einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 3. Grades wirken zu k\u00f6nnen, muss der Waldl\u00e4ufer einen Weisheitswert von 13 haben.\n\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Alle einfachen Waffen und Kriegswaffen; alle leichten und mittelschweren R\u00fcstungen und Schilde.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 6 + IN-Modifikator.\n- Fertigkeiten: Athletik, Entdecken, Heilkunde, Konzentration, Lauschen, Leise bewegen, Mit Tieren umgehen, Untersuchen, Verstecken, Wissen: Natur, \u00dcberleben, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber: G\u00f6ttliche Zauber (\u00e4hnliche Zauber wie Druide mit eingeschr\u00e4nkter Auswahl, Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht)."
+            "text": "Waldl\u00e4ufer gem\u00e4\u00df D&D Spielerhandbuch 3.5 (Zwei Waffen Kampf) \nWaldl\u00e4ufer sind geschulte Pirscher und J\u00e4ger, die sich in den weiten W\u00e4ldern Faer\u00fbns wohl f\u00fchlen. Sie sind beinahe ebenso geschult im Kampf wie der K\u00e4mpfer. Es mangelt ihnen jedoch an der Bereitschaft, unz\u00e4hlige Stunden zu trainieren, um ihre Fertigkeiten zu perfektionieren. Der Waldl\u00e4ufer konzentriert sich vielmehr darauf zu lernen, wie man besonders effektiv gegen bestimmte Kreaturen k\u00e4mpft. Bei diesen Erzfeinden handelt es sich um Wesen, die aus irgendeinem Grund den Groll des Waldl\u00e4ufers auf sich gezogen haben und deren Vernichtung er sich nun zum Ziel gesetzt hat. Waldl\u00e4ufer \u00fcbernehmen oft die Rolle eines Besch\u00fctzers f\u00fcr jene, die in seinem Wald leben oder ihn durchqueren. In der Wildnis verf\u00fcgt er \u00fcber die F\u00e4higkeit, sich effektiv zu verstecken und lautlos zu bewegen. Au\u00dferdem verf\u00fcgt er \u00fcber genaue Kenntnisse \u00fcber die Gewohnheiten verschiedener Kreaturen. Auf hohen Stufen entwickelt der Waldl\u00e4ufer ein so enges Band zur Natur, dass er \u00e4hnlich wie ein Druide die Kr\u00e4fte der Natur nutzen kann, um g\u00f6ttliche Magie zu wirken. Waldl\u00e4ufer lassen sich oft von ihren Tiergef\u00e4hrten begleiten. Ein Waldl\u00e4ufer sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Waldl\u00e4ufer die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Waldl\u00e4ufer einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 3. Grades wirken zu k\u00f6nnen, muss der Waldl\u00e4ufer einen Weisheitswert von 13 haben.\n\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Alle einfachen Waffen und Kriegswaffen; alle leichten und mittelschweren R\u00fcstungen und Schilde.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 6 + IN-Modifikator.\n- Fertigkeiten: Athletik, Entdecken, Heilkunde, Konzentration, Lauschen, Leise bewegen, Mit Tieren umgehen, Untersuchen, Verstecken, Wissen: Natur, \u00dcberleben, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber: G\u00f6ttliche Zauber (\u00e4hnliche Zauber wie Druide mit eingeschr\u00e4nkter Auswahl, Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht)."
         },
 		{
             "id": 192524,
@@ -43808,7 +43872,7 @@
         },
 		{
             "id": 192525,
-            "text": "Dein Charakter ist zu erstaunlichen Ausdauerleistungen imstande. Vorteil: Dein Charakter erh\u00e4lten einen Bonus von +4 auf die folgenden W\u00fcrfe und Rettungsw\u00fcrfe: W\u00fcrfe f\u00fcr Athletik um nichtt\u00f6dlichem Schaden zu widerstehen, um nichtt\u00f6dlichen Schaden aufgrund eines Gewaltmarsches zu vermeiden, um den Atem anzuhalten, um nichtt\u00f6dlichen Schaden durch Hunger oder Durst zu vermeiden, Z\u00e4higkeitsw\u00fcrfe, um nichtt\u00f6dlichen Schaden durch heiße oder kalte Umgebungen zu vermeiden und Z\u00e4higkeitsw\u00fcrfe, um nichtt\u00f6dlichen Schaden durch Sauerstoffmangel zu vermeiden. Außerdem kann dein Charakter in leichter oder mittelschwerer R\u00fcstung schlafen, ohne dabei ersch\u00f6pft zu werden. \nNormal: Ein Charakter, der ohne dieses Talent in mittelschwerer oder schwererer R\u00fcstung schl\u00e4ft, ist am n\u00e4chsten Tag ersch\u00f6pft. \nSpeziell: Auf der 3. Stufe erh\u00e4lt ein Waldl\u00e4ufer Ausdauer automatisch als Bonustalent. Er braucht es also nicht auszuw\u00e4hlen."
+            "text": "Dein Charakter ist zu erstaunlichen Ausdauerleistungen imstande. Vorteil: Dein Charakter erh\u00e4lten einen Bonus von +4 auf die folgenden W\u00fcrfe und Rettungsw\u00fcrfe: W\u00fcrfe f\u00fcr Athletik um nichtt\u00f6dlichem Schaden zu widerstehen, um nichtt\u00f6dlichen Schaden aufgrund eines Gewaltmarsches zu vermeiden, um den Atem anzuhalten, um nichtt\u00f6dlichen Schaden durch Hunger oder Durst zu vermeiden, Z\u00e4higkeitsw\u00fcrfe, um nichtt\u00f6dlichen Schaden durch hei\u00dfe oder kalte Umgebungen zu vermeiden und Z\u00e4higkeitsw\u00fcrfe, um nichtt\u00f6dlichen Schaden durch Sauerstoffmangel zu vermeiden. Au\u00dferdem kann dein Charakter in leichter oder mittelschwerer R\u00fcstung schlafen, ohne dabei ersch\u00f6pft zu werden. \nNormal: Ein Charakter, der ohne dieses Talent in mittelschwerer oder schwererer R\u00fcstung schl\u00e4ft, ist am n\u00e4chsten Tag ersch\u00f6pft. \nSpeziell: Auf der 3. Stufe erh\u00e4lt ein Waldl\u00e4ufer Ausdauer automatisch als Bonustalent. Er braucht es also nicht auszuw\u00e4hlen."
         },
 		{
             "id": 192526,
@@ -43824,7 +43888,7 @@
         },
 		{
             "id": 192529,
-            "text": "Ab der 13. Stufe kann der Waldl\u00e4ufer die Fertigkeit Verstecken in jeder natürlichen Umgebung benutzen, selbst wenn das Gel\u00e4nde normalerweise keine Deckung oder Tarnung b\u00f6te."
+            "text": "Ab der 13. Stufe kann der Waldl\u00e4ufer die Fertigkeit Verstecken in jeder nat\u00e4rlichen Umgebung benutzen, selbst wenn das Gel\u00e4nde normalerweise keine Deckung oder Tarnung b\u00f6te."
         },
 		{
             "id": 192530,
@@ -43832,7 +43896,7 @@
         },
 		{
             "id": 192531,
-            "text": "Dein Charakter kann mehrere Pfeile gleichzeitig auf ein nahes Ziel abschießen. \nVoraussetzung: GE 17+, Kernschuß, Schnelles Schießen, Grund-Angriffsbonus +6 oder h\u00f6her \nVorteil: Dein Charakter kann als Standard-Aktion 2 Pfeile auf einen einzelnen Gegner innerhalb von 9 m abschießen. F\u00fcr beide Pfeile wird derselbe Angriffswurf (mit einem Malus von -4) verwendet, um zu ermitteln, ob sie treffen, und beide verursachen normal Schaden. Pro 5 Punkte, die Ihr Grund-Angriffsbonus \u00fcber +6 liegt, kann dein Charakter diesem Angriff einen weiteren Pfeil hinzuf\u00fcgen, bis zu einem Maximum von 4 Pfeilen bei einem Grund-Angriffsbonus von +16. Jeder Pfeil nach dem Zweiten sorgt jedoch f\u00fcr einen kumulativen Malus von -2 auf den Angriffswurf, was zu einem Gesamtmalus von -6 bei drei und -8 bei vier Pfeilen f\u00fchrt. Schadensreduzierung und andere Resistenzen werden auf jeden abgeschossenen Pfeil einzeln angewendet. \nSpeziell: Ungeachter der Anzahl der Pfeile, die dein Charakter abschießt abschießt, verursachen Sie nur einmal Schaden, der auf Pr\u00e4zision basiert (wie beispielsweise den Schaden eines hinterh\u00e4ltigen Angriffs). Wenn dein Charakter einen kritischen Treffer erzielt, verursacht nur der erste Pfeil kritischen Schaden, alle anderen verursachen normalen. \nEin Waldl\u00e4ufer der 6. Stufe, der den Kampfstil Bogenschießen gew\u00e4hlt hat und leichte oder keine R\u00fcstung tr\u00e4gt, wird behandelt, als bes\u00e4ße er das Talent Mehrfachschuß, selbst wenn er dessen Voraussetzungen nicht erf\u00fcllt."
+            "text": "Dein Charakter kann mehrere Pfeile gleichzeitig auf ein nahes Ziel abschie\u00dfen. \nVoraussetzung: GE 17+, Kernschu\u00df, Schnelles Schie\u00dfen, Grund-Angriffsbonus +6 oder h\u00f6her \nVorteil: Dein Charakter kann als Standard-Aktion 2 Pfeile auf einen einzelnen Gegner innerhalb von 9 m abschie\u00dfen. F\u00fcr beide Pfeile wird derselbe Angriffswurf (mit einem Malus von -4) verwendet, um zu ermitteln, ob sie treffen, und beide verursachen normal Schaden. Pro 5 Punkte, die Ihr Grund-Angriffsbonus \u00fcber +6 liegt, kann dein Charakter diesem Angriff einen weiteren Pfeil hinzuf\u00fcgen, bis zu einem Maximum von 4 Pfeilen bei einem Grund-Angriffsbonus von +16. Jeder Pfeil nach dem Zweiten sorgt jedoch f\u00fcr einen kumulativen Malus von -2 auf den Angriffswurf, was zu einem Gesamtmalus von -6 bei drei und -8 bei vier Pfeilen f\u00fchrt. Schadensreduzierung und andere Resistenzen werden auf jeden abgeschossenen Pfeil einzeln angewendet. \nSpeziell: Ungeachter der Anzahl der Pfeile, die dein Charakter abschie\u00dft abschie\u00dft, verursachen Sie nur einmal Schaden, der auf Pr\u00e4zision basiert (wie beispielsweise den Schaden eines hinterh\u00e4ltigen Angriffs). Wenn dein Charakter einen kritischen Treffer erzielt, verursacht nur der erste Pfeil kritischen Schaden, alle anderen verursachen normalen. \nEin Waldl\u00e4ufer der 6. Stufe, der den Kampfstil Bogenschie\u00dfen gew\u00e4hlt hat und leichte oder keine R\u00fcstung tr\u00e4gt, wird behandelt, als bes\u00e4\u00dfe er das Talent Mehrfachschu\u00df, selbst wenn er dessen Voraussetzungen nicht erf\u00fcllt."
         },
 		{
             "id": 192532,
@@ -43848,7 +43912,7 @@
         },
 		{
             "id": 192535,
-            "text": "Druide gemäß D&D Spielerhandbuch 3.5 \nDruiden sind Anwender g\u00f6ttlicher Magie, die ihre Zauber allerdings nicht von den G\u00f6ttern, sondern von den Kr\u00e4ften der Natur beziehen. Sie streben danach, mit der Natur in Harmonie zu leben und verabscheuen alles, das nicht Teil des nat\u00fcrlichen Laufs der Dinge ist. Vor allem Aberrationen und Untote sind ihnen ein Dorn im Auge. Wenn sie m\u00e4chtiger werden, k\u00f6nnen sie die Gestalt von Tieren und sp\u00e4ter sogar von noch m\u00e4chtigeren Wesen annehmen. Die Druiden haben einen strengen Schwur abgeleistet. Daher d\u00fcrfen sie keinerlei Waffen und R\u00fcstungen verwenden, die sich die Druidenschaft sozusagen selbst verboten hat. Ein Druide sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Druiden die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Druide einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 4. Grades wirken zu k\u00f6nnen, muss der Druide einen Weisheitswert von 14 haben.\n\n- Gesinnung: Muss eine neutral gute, rechtschaffen neutrale, neutrale, chaotisch neutrale oder neutral b\u00f6se Gesinnung haben.\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Fertigkeit im Umgang mit Waffen, die Druiden gestattet sind, sowie mit leichten und mittelschweren R\u00fcstungen und Schilden.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 4 + IN-Modifikator.\n- Fertigkeiten: Entdecken, Heilkunde, Konzentration, Lauschen, Mit Tieren umgehen, Wissen: Arkanes, Wissen: Natur, \u00dcberleben, \u00dcberzeugen, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber wirken: G\u00f6ttliche Zauber (Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht).\n- Ehemalige Druiden: Ein Druide, der keine neutrale Gesinnung hat, kann keine Stufen aufsteigen."
+            "text": "Druide gem\u00e4\u00df D&D Spielerhandbuch 3.5 \nDruiden sind Anwender g\u00f6ttlicher Magie, die ihre Zauber allerdings nicht von den G\u00f6ttern, sondern von den Kr\u00e4ften der Natur beziehen. Sie streben danach, mit der Natur in Harmonie zu leben und verabscheuen alles, das nicht Teil des nat\u00fcrlichen Laufs der Dinge ist. Vor allem Aberrationen und Untote sind ihnen ein Dorn im Auge. Wenn sie m\u00e4chtiger werden, k\u00f6nnen sie die Gestalt von Tieren und sp\u00e4ter sogar von noch m\u00e4chtigeren Wesen annehmen. Die Druiden haben einen strengen Schwur abgeleistet. Daher d\u00fcrfen sie keinerlei Waffen und R\u00fcstungen verwenden, die sich die Druidenschaft sozusagen selbst verboten hat. Ein Druide sollte \u00fcber eine hohe Weisheit verf\u00fcgen, da nur sehr weise Druiden die Zauber der h\u00f6chsten Grade wirken k\u00f6nnen.\n\nACHTUNG: Um einen Zauber wirken zu k\u00f6nnen, muss ein Druide einen Weisheitswert von 10 + Zaubergrad haben. Um zum Beispiel einen Zauber des 4. Grades wirken zu k\u00f6nnen, muss der Druide einen Weisheitswert von 14 haben.\n\n- Gesinnung: Muss eine neutral gute, rechtschaffen neutrale, neutrale, chaotisch neutrale oder neutral b\u00f6se Gesinnung haben.\n- Trefferw\u00fcrfel: W8.\n- Fertigkeiten: Fertigkeit im Umgang mit Waffen, die Druiden gestattet sind, sowie mit leichten und mittelschweren R\u00fcstungen und Schilden.\n- Fertigkeitspunkte (x 4 auf der ersten Stufe): 4 + IN-Modifikator.\n- Fertigkeiten: Entdecken, Heilkunde, Konzentration, Lauschen, Mit Tieren umgehen, Wissen: Arkanes, Wissen: Natur, \u00dcberleben, \u00dcberzeugen, Handwerk (Alchemist, Lederer, Schmied, Schreiner).\n- Zauber wirken: G\u00f6ttliche Zauber (Weisheitsabh\u00e4ngig, R\u00fcstung erh\u00f6ht die Chance auf Zauberpatzer nicht).\n- Ehemalige Druiden: Ein Druide, der keine neutrale Gesinnung hat, kann keine Stufen aufsteigen."
         },
 		{
             "id": 192536,
@@ -43868,7 +43932,7 @@
         },
 		{
             "id": 192540,
-            "text": "Zeitloser Körper"
+            "text": "Zeitloser K\u00f6rper"
         },
 		{
             "id": 192541,

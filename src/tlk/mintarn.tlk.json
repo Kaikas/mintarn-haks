@@ -748,39 +748,39 @@
         },
         {
             "id": 201,
-            "text": "Rüstungsklasse: 0\n\nMaximaler GE-Bonus: -\n\nRüstungsmalus: 0\n\nChance für arkane Zauberpatzer: 0%\n\nVoraussetzungen: Keine\n\n"
+            "text": "Rüstungsklasse: 0\nMaximaler GE-Bonus: -\nRüstungsmalus: 0\nChance für arkane Zauberpatzer: 0%\nVoraussetzungen: Keine\n"
         },
         {
             "id": 202,
-            "text": "Rüstungsklasse: 1\n\nMaximaler GE-Bonus: 8\n\nRüstungsmalus: 0\n\nChance für arkane Zauberpatzer: 5%\n\nVoraussetzungen: Umgang mit leichten Rüstungen"
+            "text": "Rüstungsklasse: 1\nMaximaler GE-Bonus: 8\nRüstungsmalus: 0\nChance für arkane Zauberpatzer: 5%\nVoraussetzungen: Umgang mit leichten Rüstungen"
         },
         {
             "id": 203,
-            "text": "Rüstungsklasse: 2\n\nMaximaler GE-Bonus: 7\n\nRüstungsmalus: 0\n\nChance für arkane Zauberpatzer: 10%\n\nVoraussetzungen: Umgang mit leichten Rüstungen"
+            "text": "Rüstungsklasse: 2\nMaximaler GE-Bonus: 7\nRüstungsmalus: 0\nChance für arkane Zauberpatzer: 10%\nVoraussetzungen: Umgang mit leichten Rüstungen"
         },
         {
             "id": 204,
-            "text": "Rüstungsklasse: 3\n\nMaximaler GE-Bonus: 6\n\nRüstungsmalus: -1\n\nChance für arkane Zauberpatzer: 15%\n\nVoraussetzungen: Umgang mit leichten Rüstungen"
+            "text": "Rüstungsklasse: 3\nMaximaler GE-Bonus: 6\nRüstungsmalus: -1\nChance für arkane Zauberpatzer: 15%\nVoraussetzungen: Umgang mit leichten Rüstungen"
         },
         {
             "id": 205,
-            "text": "Rüstungsklasse: 4\n\nMaximaler GE-Bonus: 5\n\nRüstungsmalus: -3\n\nChance für arkane Zauberpatzer: 20%\n\nVoraussetzungen: Umgang mit mittelschweren Rüstungen"
+            "text": "Rüstungsklasse: 4\nMaximaler GE-Bonus: 5\nRüstungsmalus: -3\nChance für arkane Zauberpatzer: 20%\nVoraussetzungen: Umgang mit mittelschweren Rüstungen"
         },
         {
             "id": 206,
-            "text": "Rüstungsklasse: 5\n\nMaximaler GE-Bonus: 4\n\nRüstungsmalus: -4\n\nChance für arkane Zauberpatzer: 25%\n\nVoraussetzungen: Umgang mit mittelschweren Rüstungen"
+            "text": "Rüstungsklasse: 5\nMaximaler GE-Bonus: 4\nRüstungsmalus: -4\nChance für arkane Zauberpatzer: 25%\nVoraussetzungen: Umgang mit mittelschweren Rüstungen"
         },
         {
             "id": 207,
-            "text": "Rüstungsklasse: 6\n\nMaximaler GE-Bonus: 3\n\nRüstungsmalus: -6\n\nChance für arkane Zauberpatzer: 30%\n\nVoraussetzungen: Umgang mit schweren Rüstungen"
+            "text": "Rüstungsklasse: 6\nMaximaler GE-Bonus: 3\nRüstungsmalus: -6\nChance für arkane Zauberpatzer: 30%\nVoraussetzungen: Umgang mit schweren Rüstungen"
         },
         {
             "id": 208,
-            "text": "Rüstungsklasse: 7\n\nMaximaler GE-Bonus: 2\n\nRüstungsmalus: -7\n\nChance für arkane Zauberpatzer: 35%\n\nVoraussetzungen: Umgang mit schweren Rüstungen"
+            "text": "Rüstungsklasse: 7\nMaximaler GE-Bonus: 2\nRüstungsmalus: -7\nChance für arkane Zauberpatzer: 35%\nVoraussetzungen: Umgang mit schweren Rüstungen"
         },
         {
             "id": 209,
-            "text": "Rüstungsklasse: 8\n\nMaximaler GE-Bonus: 1\n\nRüstungsmalus: -8\n\nChance für arkane Zauberpatzer: 45%\n\nVoraussetzungen: Umgang mit schweren Rüstungen"
+            "text": "Rüstungsklasse: 8\nMaximaler GE-Bonus: 1\nRüstungsmalus: -8\nChance für arkane Zauberpatzer: 45%\nVoraussetzungen: Umgang mit schweren Rüstungen"
         },
         {
             "id": 224,

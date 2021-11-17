@@ -8,7 +8,7 @@
 4  Heilkunde        16777226 16777312    isk_heal       1         WIS        0                 1                ****     1     SKILL_HEAL             0            
 5  Verstecken       16777241 16777303    isk_hide       1         DEX        1                 1                ****     ****  SKILL_HIDE             0            
 6  Lauschen         16777240 16777311    isk_listen     1         WIS        0                 1                ****     ****  SKILL_LISTEN           0            
-7  WissenWeltliches 16777238 16777308    isk_knowworld  0         INT        0                 1                ****     ****  SKILL_KNOW_LORE        0            
+7  WissenWeltliches 16777238 16777308    isk_knowworld  1         INT        0                 1                ****     ****  SKILL_KNOW_LORE        0            
 8  LeiseBewegen     16777242 16777313    isk_movsilent  1         DEX        1                 1                ****     ****  SKILL_MOVE_SILENTLY    0            
 9  Schmied          16777217 16777221    isk_crftsmith  1         INT        0                 1                ****     ****  SKILL_CRAFT_SMITH      0            
 10 *Parry           16777320 16777321    isk_disabled   0         DEX        1                 0                ****     1     SKILL_DUMMY            0            

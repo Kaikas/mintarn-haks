@@ -214,6 +214,99 @@
                             "__struct_id": 0,
                             "DELETE_ME": {
                                 "type": "cexostring",
+                                "value": "Ausrüstung"
+                            },
+                            "ID": {
+                                "type": "byte",
+                                "value": 15
+                            },
+                            "LIST": {
+                                "type": "list",
+                                "value": [
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Haupthand"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 16
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Nebenhand"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 17
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Schultern"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 18
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Kopf"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 19
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Füße"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 20
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Hände"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 21
+                                        }
+                                  },
+                                  {
+                                        "__struct_id": 0,
+                                        "DELETE_ME": {
+                                            "type": "cexostring",
+                                            "value": "Gürtel"
+                                        },
+                                        "ID": {
+                                            "type": "byte",
+                                            "value": 22
+                                        }
+                                  }
+                              ]
+                            }
+                        },
+                        {
+                            "__struct_id": 0,
+                            "DELETE_ME": {
+                                "type": "cexostring",
                                 "value": "Waffen"
                             },
                             "ID": {

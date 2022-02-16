@@ -219,10 +219,10 @@
 215        Protection_from_Chaos            ****    ****        ****        0     ****         ****        ****      ****         ****               
 216        Protection_From_Elements         1320    3           3           0     137          1           1         1            iss_PrElement      
 217        Protection_From_Elements         1321    10          3           0    137          1           1         1            iss_PrElement      
-218        Protection_from_Evil             888     1           1          10      138          1           1         1            iss_PrEvil               
-219        Protection_from_Evil             ****    10          1          30      138          1           1         1            iss_PrEvil          
-220        Protection_from_Good             889     1           1          10      139          1           1         1            iss_PrGood          
-221        Protection_from_Good             ****    10          1          30      139          1           1         1            iss_PrGood          
+218        Protection_from_Evil             888     1           1           0      138          1           1         1            iss_PrEvil               
+219        Protection_from_Evil             ****    10          1           0      138          1           1         1            iss_PrEvil          
+220        Protection_from_Good             889     1           1           0      139          1           1         1            iss_PrGood          
+221        Protection_from_Good             ****    10          1           0      139          1           1         1            iss_PrGood          
 222        Protection_from_Law              ****    ****        ****        0     ****         ****        ****      ****         ****               
 223        Protection_from_Law              ****    ****        ****        0     ****         ****        ****      ****         ****               
 224        Protection_from_Spells           1328    13          7           0    141          1           0         1            iss_PrSpells       
@@ -536,9 +536,9 @@
 532        DragonKnight                     8671    25          9           0   638          0           0         1            iss_X2SpDraKnt     
 533        EpicMageArmor                    8675    25          9           0   639          0           0         1            iss_X2SpMagArm     
 534        Ruin                             8677    25          9           0   640          0           0         1            iss_X2SpRuin     
-535        EpicWard                         83607   30          9           314750   695          0           0         1            iss_X2EpicWard     
-536        Intelligent_Weapon_Talk          84470   0           1           1        767          0           0         1            is_talktoswd
-537        ACTIVATE_ITEM_T                  86781   1           1           1        795          1           1         1            iss_ActItem01      
-538        Ball_Lightning                   100979  20          5           50000    516          0           1         1            iss_X2BallLghtng   
-539        Scintillating_Sphere             100978  20          3           11250    526          0           1         1            iss_X2ScntSphere   
+535        EpicWard                         83607   30          9           0   695          0           0         1            iss_X2EpicWard     
+536        Intelligent_Weapon_Talk          84470   0           1           0   767          0           0         1            is_talktoswd
+537        ACTIVATE_ITEM_T                  86781   1           1           0   795          1           1         1            iss_ActItem01      
+538        Ball_Lightning                   100979  20          5           0   516          0           1         1            iss_X2BallLghtng   
+539        Scintillating_Sphere             100978  20          3           0   526          0           1         1            iss_X2ScntSphere   
 

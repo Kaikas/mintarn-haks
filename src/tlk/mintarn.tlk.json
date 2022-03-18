@@ -43953,6 +43953,15 @@
 		{
             "id": 192545,
             "text": "Husky"
-        }
+        },
+        {
+            "id": 193000,
+            "text": "Shillelagh"
+        },
+        {
+            "id": 193001,
+            "text": "Grad: DRU 1\nKalkulationsgrad: 1\nSchule: Transmutation\nKomponenten: V, G, GF\nReichweite: Ber\u00fchrung\nWirkungsbereich/Ziel: Nahkampfwaffe oder Kreatur\nWirkungsdauer: 1 Phase pro Stufe\nGegenzauber:\nRettungswurf: Nein\nZauberresistenz: Nein\n\nWenn das Ziel eine Keule oder ein Kampfstab ist, so erh\u00e4lt sie einen Verbesserungsbonus +1 und verursacht Schaden als wäre sie zwei Kategorien gr\u00f6\u00dfer(+1w6)."
+        },
+
     ]
 }

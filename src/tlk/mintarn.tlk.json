@@ -43962,6 +43962,22 @@
             "id": 193001,
             "text": "Grad: DRU 1\nKalkulationsgrad: 1\nSchule: Transmutation\nKomponenten: V, G, GF\nReichweite: Ber\u00fchrung\nWirkungsbereich/Ziel: Nahkampfwaffe oder Kreatur\nWirkungsdauer: 1 Phase pro Stufe\nGegenzauber:\nRettungswurf: Nein\nZauberresistenz: Nein\n\nWenn das Ziel eine Keule oder ein Kampfstab ist, so erh\u00e4lt sie einen Verbesserungsbonus +1 und verursacht Schaden als wäre sie zwei Kategorien gr\u00f6\u00dfer(+1w6)."
         },
+        {
+            "id": 193002,
+            "text": "Gift entdecken"
+        },
+        {
+            "id": 193003,
+            "text": "Grad: KLR 0, DRU 0, PAL 1, WAL 1, MAG/HXM 0\nKalkulationsgrad: 0\nSchule: Erkenntniss\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Eine kreatur, ein Objekt oder ein 1.5m Würfel\nWirkungsdauer: Sofort\nGegenzauber:\nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender kann feststellen ob das Ziel vergiftet wurde oder giftig ist. Der exakte Typ an Gift kann mit einem Weisheits- oder Alchemie-Wurf gegen DC 20 ermittelt werden.\n\nDer Zauber kann Barrieren durchdringen, aber 0.3m Stein, 2.5cm, ein dünnes Blei-Blech oder 0.9m Holz oder Erde blocken ihn."
+        },
+        {
+            "id": 193004,
+            "text": "Magie entdecken"
+        },
+        {
+            "id": 193005,
+            "text": "Grad: KLR 0, DRU 0, MAG/HXM 0\nKalkulationsgrad: 0\nSchule: Erkenntniss\nKomponenten: V, G\nReichweite: 18m\nWirkungsbereich/Ziel: Kegel\nWirkungsdauer: Konzentration, bis zu 1 Min./Stufe\nGegenzauber:\nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender kann magische Auren entdecken. Die Menge an Information hängt davon ab wie lange er sich auf die Aura konzentriert.\n\nErste Runde: Präsenz magischer Auren.\nZweite Runde: Anzahl ungerschiedlicher Auren und die Stärke der stärksten.\nDritte Runde: Die Stärke und der Ort jeder Aura. Mit einem Zauberkunde-Wurf (DC 15 + Zaubergrad, einzeln pro Aura) kann man die Zauberschule feststellen.\n\nMagische Areale, mehrere Typen von Magie oder starke Emanationen können schwächere Auren verzerren oder verdecken."
+        },
 
     ]
 }

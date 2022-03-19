@@ -43978,6 +43978,14 @@
             "id": 193005,
             "text": "Grad: KLR 0, DRU 0, MAG/HXM 0\nKalkulationsgrad: 0\nSchule: Erkenntniss\nKomponenten: V, G\nReichweite: 18m\nWirkungsbereich/Ziel: Kegel\nWirkungsdauer: Konzentration, bis zu 1 Min./Stufe\nGegenzauber:\nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender kann magische Auren entdecken. Die Menge an Information hängt davon ab wie lange er sich auf die Aura konzentriert.\n\nErste Runde: Präsenz magischer Auren.\nZweite Runde: Anzahl ungerschiedlicher Auren und die Stärke der stärksten.\nDritte Runde: Die Stärke und der Ort jeder Aura. Mit einem Zauberkunde-Wurf (DC 15 + Zaubergrad, einzeln pro Aura) kann man die Zauberschule feststellen.\n\nMagische Areale, mehrere Typen von Magie oder starke Emanationen können schwächere Auren verzerren oder verdecken."
         },
+        {
+            "id": 193006,
+            "text": "Magie lesen"
+        },
+        {
+            "id": 193007,
+            "text": "Grad: BRD 0, KLR 0, DRU 0, PAL 1, WAL 1, MAG/HXM 0\nKalkulationsgrad: 0\nSchule: Erkenntniss\nKomponenten: V, G, F\nReichweite: Persönlich\nWirkungsbereich/Ziel: Selbst\nWirkungsdauer: 10 min./Stufe\nGegenzauber:\nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender kann magische Inschriften an Objekten lesen die sonst nicht lesbar wären. Dieses Ablesen löst die Magie normalerweise nicht aus, ausser im Falle einer verfluchten Schriftrolle.\nSobald der Magieanwender eine spezifische Inschrift einmal mit Hilfe dieses Spruchs gelesen hat kann er sie auch ohne erneutes Wirken weiterhin verstehen. Mit diesem Spruch kann er eine Schutzglyphe mit einem Zauberkunde-Wurf DC 13 identifizieren, eine höhere Schutzglyphe mit DC 16 oder ein beliebiges magisches Symbol mit DC10+Spruchgrad.\n\nBenötigter Fokus: Ein klarer Kritall oder ein Mineralien-prisma."
+        },
 
     ]
 }

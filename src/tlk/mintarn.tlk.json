@@ -835,6 +835,10 @@
             "text": "SW-5"
         },
         {
+            "id": 237,
+            "text": "Art des Talents: Klasse\nVoraussetzung: Barde der 1. Stufe oder Harfner-Kundschafter der 1. Stufe\nVorteil: Der Barde nimmt wie von selbst Gerüchte und Details über seine Umgebung auf. Das Talent addiert seine Klassenstufe zu seiner Wissen: Weltliches Fertigkeit."
+        },
+        {
             "id": 20500,
             "text": "*Remove all*"
         },

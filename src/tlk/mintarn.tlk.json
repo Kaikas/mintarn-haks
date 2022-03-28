@@ -44388,7 +44388,79 @@
         },
         {
             "id": 193105,
-            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Sorcerer 2, Wizard 2\nComponents: V, S,\nCasting Time: 1 minute\nRange: Touch\nTarget: Flask of water touched\nDuration: 1 hour/level\nSaving Throw: Will negates (object)\nSpell Resistance: Yes (object)\n\nYou mutter the last of the spell's words and wave your fingers over the flask. Coppery sparks drop from your fingertips and suffuse the water with a deep rusty shade. As the sparks dissolve fully, you begin casting your next spell.\nYou transform the water in a flask so that it is capable of storing a spell in the manner of a potion. On your next turn, you or another spellcaster can cast a spell into the water, transforming the water into a potion of the appropriate type. Only spells suitable for making potions can be used in this way."
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Sorcerer 4, Wizard 4\nComponents: V, S,\nCasting Time: 1 minute\nRange: Touch\nTarget: Flask of water touched\nDuration: 1 hour/level\nSaving Throw: Will negates (object)\nSpell Resistance: Yes (object)\n\nYou mutter the last of the spell's words and wave your fingers over the flask. Coppery sparks drop from your fingertips and suffuse the water with a deep rusty shade. As the sparks dissolve fully, you begin casting your next spell.\nYou transform the water in a flask so that it is capable of storing a spell in the manner of a potion. On your next turn, you or another spellcaster can cast a spell into the water, transforming the water into a potion of the appropriate type. Only spells suitable for making potions can be used in this way."
+        },
+        {
+            "id": 193106,
+            "text": "Detect Guilt"
+        },
+        {
+            "id": 193107,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nDivination\nLevel: Cleric 1, Paladin 1\nComponents: V,S,DF\nCasting Time: 1 Standard Action\nRange: Close (25fg.+5ft/2 levels)\nTarget: One Creature\nDuration: Instantaneous\nSaving Throw: None\nSpell Resistance: No\n\nYou sense the presence of guilt in the target creature. This spell in no way reveals why the target feels guilty, only that it does. The level of guilt a creature feels has little to do with whatever act cases the creature's guilty feelings. A serial killer might feel no guilt for the brutal murder he commits, while a maid might feel strong gult about forgetting to mop the kitchen floor.\nGood creatures typically feel greater amounts of guilt than neutral creatures, who in turn feel more guilt than evil creatures. These generalizations cannot guarantee how a creature reacts to its own actions, but they give a general guideline.\nA Creature must have at least 3 INT, 1 WIS and 1 CHA in order to feel guilt. The spell fails if cast on a creature without those minimum ability scores.\nThe Spell categorizes guilt into 4 strengths, sense-able to the caster of the spell.\nOccasional pangs of guilt - weak aura\nStomach-churning guilt; worries about what happened - moderate aura\nLoses Sleep over what happened; obsesses over it - strong aura\nWants to take rash actions to avoid feeling the guilt - overwhelming aura"
+        },
+        {
+            "id": 193108,
+            "text": "Rigor Mortis"
+        },
+        {
+            "id": 193109,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nNecromancy\nLevel: Cleric 2\nComponents: S, M,\nCasting Time: 1 standard action\nRange: Touch\nTarget: Creature touched\nDuration: 1d6+2 rounds\nSaving Throw: Fortitude negates\nSpell Resistance: Yes\n\nThis spell allows you to wrap a single target in death's embrace, making him both feel and appear dead for the duration of the spell.\nYou must be able to touch the target, and the target must have a Wisdom score, but otherwise the spell can affect any creature, including intelligent undead. You must succeed on a melee touch attack to affect unwilling targets, and those who fail their saving throws immediately fall to the ground as though dead.\nAll vital functions (if any) are suspended; subjects of this spell do not breathe, pump blood, or otherwise indicate in any way that they still live.\nAny physical harm done to someone in this state immediately grants another saving throw to awaken from the artificial torpor.\nMaterial Component: A pinch of ash from a cremated body of any kind."
+        },
+        {
+            "id": 193108,
+            "text": "Wood Wose"
+        },
+        {
+            "id": 193109,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nConjuration (Creation)\nLevel: Druid 1,\nComponents: V, S, DF,\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nEffect: One nature servant\nDuration: 1 hour/level\nSaving Throw: None\nSpell Resistance: No\n\nWhistling up nature's power and waving a branch of holly, you create a helper for the task at hand.\n\nA wood wose is a translucent green nature spirit that you can command to perform simple natural tasks. It can build a campfire, gather herbs, feed an animal companion, catch a fish, or perform any other simple task that doesn't involve knowledge of technology. It cannot, for example, open a latched chest, since it doesn't know how a latch works.\n\nA wood wose can perform only one activity at a time, but it repeats the same activity if told to do so. Thus, if you commanded it to gather leaves, it would continue to do so while you turned your attention elsewhere, as long as you remained within range.\n\nA wood wose has an effective Strength of 2, so it can lift 20 pounds or drag 100 pounds. It can trigger traps, but the 20 pounds of force it can exert is not enough to activate most pressure plates. It has a land speed of 15 feet and a fly speed of 15 feet (perfect).\n\nA wood wose cannot attack in any way; it is never allowed an attack roll or a saving throw. It cannot be killed, but it dissipates if it takes 6 points of damage from area attacks. If you attempt to send the wose beyond the spell's range (measured from your current position), it ceases to exist."
+        },
+        {
+            "id": 193110,
+            "text": "Zone of Natural Purity"
+        },
+        {
+            "id": 193111,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEvocation\nLevel: Druid 2\nComponents: V, S, M, DF, A bushel of ivy leaves and berries, which must be sprinkled around the area.\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nArea: 20-ft.-radius emanation\nDuration: 2 hours/level\nSaving Throw: None\nSpell Resistance: No\n\nThis spell sanctifies an area to the forces of nature. Every fey and plant creature in the area gains a +1 sacred bonus on attack rolls, damage rolls, and saving throws, while aberrations in the area take a —1 penalty on attack rolls, damage rolls, and saves."
+        },
+        {
+            "id": 193112,
+            "text": "Nature's Rampart"
+        },
+        {
+            "id": 193113,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Druid 3, Ranger 3\nComponents: V, S, DF,\nCasting Time: 10 minutes\nRange: Medium (100 ft. + 10 ft./level)\nArea: Structure up to 40 ft. square\nDuration: Instantaneous\nSaving Throw: None\nSpell Resistance: No\n\nWith a final wave of your hand, the ground beneath your feet trembles and the landscape shifts into a new form.\nYou shape a natural setting into a formidable defensive position. Usually this spell is used to prepare an open outdoor area such as a hillside or a forest, but a large natural cavern could be shaped into a divine rampart. Artificial structures or features are not affected, although nature's rampart could be positioned to fill a gap between two buildings or barricade an unpaved road. The effect of the spell depends on the terrain:\n\nOpen Outdoor Site: A rampart or dike of earth 5 feet high and 5 feet thick at its base rises immediately behind a shallow ditch 5 feet wide and 5 feet deep along the perimeter of the site. Creatures behind the dike receive cover. Attackers approaching on foot must scramble down into the ditch and then climbing 10 feet to reach the top of the dike (Climb DC 10).\nRough Outdoor Site or Cavern: Loose stones and boulders, dead wood, and patches of dense briars are arranged to form a defensible wall 5 feet high and 2 feet thick at the base around the perimeter of the site. Creatures behind the wall receive cover.\nMarshy or Low-Lying Site: In areas such as marsh, bog, swamp, or tundra, nature's rampart cannot raise a wall, but instead creates a water-filled ditch 10 feet wide and 5 feet deep. Creatures forced to wade the ditch are reduced to 1/4 their normal speed (minimum 5 feet) and cannot charge or run.\n\nFocus: A small quartz gem engraved with the image of an exquisite tiny castle, worth at least 100 gp."
+        },
+        {
+            "id": 193114,
+            "text": "Insidious Rhythm"
+        },
+        {
+            "id": 193115,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEnchantment (Compulsion) [Mind-Affecting]\nLevel: Bard 1,\nComponents: V, S,\nCasting Time: 1 immediate action\nRange: Medium (100 ft. + 10 ft./level)\nTarget: One creature\nDuration: 1 minute/level\nSaving Throw: Will negates\nSpell Resistance: Yes\n\nYou recite a foolhardy ditty, tapping your foot in time. With a wink and a grin you mark your target, who shortly thereafter follows suit.\n\nThe subject takes a —4 penalty on Intelligence-based skill checks and Concentration checks due to an endlessly recycling melody stuck in its mind. Whenever the subject attempts to cast, concentrate on, or direct a spell, it must succeed on a Concentration check (DC equal to insidious rhythm's save DC + spell's level) or fail at the attempt."
+        },
+        {
+            "id": 193116,
+            "text": "Animate Instrument"
+        },
+        {
+            "id": 193117,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Bard 2,\nComponents: V, S,\nCasting Time: 1 standard action\nRange: Touch\nTarget: Instrument touched\nDuration: 1 minute/level\nSaving Throw: None\nSpell Resistance: No\n\nAs you finish intoning this chant, your instrument leaves your hands and floats before you, continuing your song.\n\nYou imbue your musical instrument with the ability to play at your command. This instrument can play a tune on your behalf even while you are busy with other actions. As long as this spell is in effect, you can cause the instrument to begin playing as a swift action, effectively mimicking and continuing your performance. The instrument uses your Perform modifier for the purpose of bardic music checks.\nOnce the animated instrument picks up the performance, you do not have to concentrate to maintain its effect. Thus, you can continue a performance or bardic music effect that relies on the use of a musical instrument and also cast spells, activate magic items by spell completion or command words, or even use another bardic music ability.\n\nYou can animate any nonmagical musical instrument, such as a piano, fiddle, or harp. If the instrument must be carried or held while played, it floats in the air in the square in which you cast the spell. The animated instrument cannot move. It continues to play until the spell expires or the instrument is damaged. An animated instrument's AC is 10 + any relevant size modifiers; most handheld instruments are Tiny."
+        },
+        {
+            "id": 193116,
+            "text": "Reveille"
+        },
+        {
+            "id": 193117,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nNecromancy [Language-Dependent, Sonic]\nLevel: Bard 3\nComponents: V, S,\nCasting Time: 1 full round\nRange: Touch\nTarget: One recently dead creature\nDuration: 1 round/level\nSaving Throw: None\nSpell Resistance: No\n\nYou cause a recently dead creature (within three days of its death) to reveal information about events that led up to its death.\n\nThe corpse speaks tersely in its native language, using no more than a dozen words or so in a round.\nIn the first round, it describes the last thing it saw.\nIn the second, it describes its dying wish.\nIn the third, it describes the wounding that killed it.\nIn the fourth, it tells who killed it.\nIn the fifth, it tells why it believes it was killed.\nIn the sixth and all rounds following, it answers one question to the best of its ability (as speak with dead).\nThe corpse has no more knowledge than it had when alive, nor does it retain any memory of events that occurred after its death.\nAll restrictions placed on the use of speak with dead (differing alignments allow a saving throw, no repeat uses of this spell or speak with dead within seven days, intact body required, and undead creatures are immune) apply to this spell as well."
+        },
+        {
+            "id": 193118,
+            "text": "Fabricate"
+        },
+        {
+            "id": 193119,
+            "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Sorcerer 5, Wizard 5\nComponents: V, S, M,\nCasting Time: See text\nRange: Close (25 ft. + 5 ft./2 levels)\nTarget: Up to 10 cu. ft./level; see text\nDuration: Instantaneous\nSaving Throw: None\nSpell Resistance: No\n\nYou convert material of one sort into a product that is of the same material. Thus, you can fabricate a wooden bridge from a clump of tress, a rope from a patch of hemp, clothes from flax or wool, and so forth. Creatures or magic items cannot be created or transmuted by the fabricate spell. The quality of items made by this spell is commensurate with the quality of material used as the basis for the new fabrication. If you work with a mineral, the target is reduced to 1 cubic foot per level instead of 10 cubic feet.\n\nYou must make an appropriate Craft check to fabricate articles requiring a high degree of craftsmanship (jewelry, swords, glass, crystal, and the like).\n\nCasting requires 1 round per 10 cubic feet (or 1 cubic foot) of material to be affected by the spell.\nMaterial Component: The original material, which costs the same amount as the raw materials required to craft the item to be created."
         }
     ]
 }

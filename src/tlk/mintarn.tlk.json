@@ -44311,156 +44311,229 @@
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nDivination\nLevel: Paladin 3, Cleric 4\nComponents: V, S, DF,\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nTarget: One creature/level, no two of which can be more than 30 ft. apart\nDuration: Concentration, up to 1 round/level\nSaving Throw: Will negates\nSpell Resistance: No\n\nEach round, you concentrate on one subject, who must be within range. You know if the subject deliberately and knowingly speaks a lie by discerning disturbances in its aura caused by lying. The spell does not reveal the truth, uncover unintentional inaccuracies, or necessarily reveal evasions. Each round, you may concentrate on a different subject."
         },
         {
-            "id": 193086,
+            "id": 193088,
             "text": "Wall of Good"
         },
         {
-            "id": 193087,
+            "id": 193089,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nAbjuration [Good]\nLevel: Cleric 4, Sorcerer 4\nComponents: V, S, M, DF,\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nEffect: A straight wall whose area is up to one 10-ft. square/level or a sphere or hemisphere with a radius of up to 5 ft./2 levels\nDuration: 10 minutes/level\nSaving Throw: See text\nSpell Resistance: Yes\n\nYou invoke the abjuration, and a cascade of brilliant white energy springs up in a wall that becomes invisible almost instantly.\n\nYou create an immobile barrier that inhibits evil creatures. An evil summoned creature cannot pass through the wall in either direction, and any other evil creature must succeed on a Will save each time it attempts to move through the wall. If the saving throw is failed, the creature's movement is stopped, and it can take no other action that round.\n\nA wall of good must be continuous and unbroken when formed. If it is cast so that an object or creature breaks its surface, the spell fails.\n\nArcane Material Component: Powdered silver worth 25 gp."
         },
         {
-            "id": 193088,
+            "id": 193090,
             "text": "Hallow"
         },
         {
-            "id": 193089,
+            "id": 193091,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEvocation [Good]\nLevel: Cleric 5, Druid 5, Urban Druid 5, Apostle of Peace 5, Divine Bard 6, Deathless (ECS) 5,\nComponents: V, S, M, DF,\nCasting Time: 24 hours\nRange: Touch\nArea: 40-ft. radius emanating from the touched point\nDuration: Instantaneous\nSaving Throw: See text\nSpell Resistance: See text\n\nHallow makes a particular site, building, or structure a holy site. This has four major effects.\n\nFirst, the site or structure is guarded by a magic circle against evil effect.\n\nSecond, all Charisma checks made to turn undead gain a +4 sacred bonus, and Charisma checks to command undead take a -4 penalty. Spell resistance does not apply to this effect. (This provision does not apply to the druid version of the spell).\n\nThird, any dead body interred in a hallowed site cannot be turned into an undead creature.\n\nFinally, you may choose to fix a single spell effect to the _hallowed site. The spell effect lasts for one year and functions throughout the entire site, regardless of the normal duration and area or effect. You may designate whether the effect applies to all creatures, creatures who share your faith or alignment, or creatures who adhere to another faith or alignment. For example, you may create a bless effect that aids all creatures of your alignment or faith in the area, or a bane effect that hinders creatures of the opposed alignment or an enemy faith. At the end of the year, the chosen effect lapses, but it can be renewed or replaced simply by casting hallow again.\n\nSpell effects that may be tied to a hallowed site include aid, bane, bless, cause fear, darkness, daylight, death ward, deeper darkness, detect evil, detect magic, dimensional anchor, discern lies, dispel magic, endure elements, freedom of movement, invisibility purge, protection from energy, remove fear, resist energy, silence, tongues, and zone of truth. Saving throws and spell resistance might apply to these spells' effects. (See the individual spell descriptions for details).\n\nAn area can receive only one hallow spell (and its associated spell effect) at a time.\n\nHallow counters but does not dispel unhallow.\n\nMaterial Component: Herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the hallowed area."
         },
         {
-            "id": 193090,
+            "id": 193092,
             "text": "Mark of Justice"
         },
         {
-            "id": 193091,
+            "id": 193093,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nNecromancy\nLevel: Paladin 4, Cleric 5\nComponents: V, S, DF,\nCasting Time: 10 minutes\nRange: Touch\nTarget: Creature touched\nDuration: Permanent; see text\nSaving Throw: None\nSpell Resistance: Yes\n\nWhen moral persuasion fails to win a criminal over to right conduct, you can use mark of justice to encourage the miscreant to walk the straight and narrow path.\n\nYou draw an indelible mark on the subject and state some behavior on the part of the subject that will activate the mark. When activated, the mark curses the subject. Typically, you designate some sort of criminal behavior that activates the mark, but you can pick any act you please. The effect of the mark is identical with the effect of bestow curse.\n\nSince this spell takes 10 minutes to cast and involves writing on the target, you can cast it only on a creature that is willing or restrained.\n\nLike the effect of bestow curse, a mark of justice cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell. Remove curse works only if its caster level is equal to or higher than your mark of justice caster level. These restrictions apply regardless of whether the mark has activated."
         },
         {
-            "id": 193092,
+            "id": 193094,
             "text": "Spark of Life"
         },
         {
-            "id": 193093,
+            "id": 193095,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nNecromancy\nLevel: Cleric 3, Druid 4,\nComponents: V, S,\nCasting Time: 1 standard action\nRange: Touch\nTarget: Undead creature touched\nDuration: 1 round/level\nSaving Throw: Will negates\nSpell Resistance: Yes\n\nA touch from your hand outlines an undead creature in a faint yellow glow, making it vulnerable to many of the dangers that can harm living creatures.\n\nFor the duration of the spell, the undead creature is subject to extra damage from critical hits (and thus sneak attacks), nonlethal damage, ability drain, energy drain, fatigue, exhaustion, and damage to its physical ability scores (though it still lacks a Constitution score and thus can't take Constitution damage) as if it were alive.\n\nIt loses its immunity to effects that require a Fortitude save, as well as its invulnerability to poison, sleep effects, paralysis, stunning, disease, and death effects. However, an undead affected by this spell gains a bonus on its Fortitude saves equal to its Charisma bonus (if any). (The bonus doesn't apply to Fortitude saves against effects that also affect objects.) It must breathe, eat, and sleep just like a normal living creature (though the last two aren't likely to come into play thanks to the spell's short duration).\n\nWhile it is under the effect of this spell, both negative energy (such as inflict spells) and positive energy (such as cure spells) heal damage to the undead creature, rather than damaging it.\n\nAn undead creature affected by this spell retains all of its other traits."
         },
         {
-            "id": 193094,
+            "id": 193096,
             "text": "Rusting Grasp"
         },
         {
-            "id": 193095,
+            "id": 193097,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Druid 4\nComponents: V, S, DF,\nCasting Time: 1 standard action\nRange: Touch\nTarget: One nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point) or one ferrous creature\nDuration: See text\nSaving Throw: None\nSpell Resistance: No\n\nAny iron or iron alloy item you touch becomes instantaneously rusted, pitted, and worthless, effectively destroyed. If the item is so large that it cannot fit within a 3-foot radius (a large iron door or a wall of iron), a 3-foot-radius volume of the metal is rusted and destroyed. Magic items made of metal are immune to this spell.\n\nYou may employ rusting grasp in combat with a successful melee touch attack. Rusting grasp used in this way instantaneously destroys 1d6 points of Armor Class gained from metal armor (to the maximum amount of protection the armor offered) through corrosion. For example, full plate armor (AC +8) could be reduced to +7 or as low as +2 in protection, depending on the die roll.\n\nWeapons in use by an opponent targeted by the spell are more difficult to grasp. You must succeed on a melee touch attack against the weapon. A metal weapon that is hit is destroyed.\n\nNote: Striking at an opponent's weapon provokes an attack of opportunity. Also, you must touch the weapon and not the other way around.\n\nAgainst a ferrous creature, rusting grasp instantaneously deals 3d6 points of damage +1 per caster level (maximum +15) per successful attack. The spell lasts for 1 round per level, and you can make one melee touch attack per round."
         },
         {
-            "id": 193096,
+            "id": 193098,
             "text": "Commune with Nature"
         },
         {
-            "id": 193097,
+            "id": 193099,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nDivination\nLevel: Ranger 4, Druid 5\nComponents: V, S,\nCasting Time: 10 minutes\nRange: Personal\nTarget: You\nDuration: Instantaneous\n\nYou become one with nature, attaining knowledge of the surrounding territory. You instantly gain knowledge of as many as three facts from among the following subjects: the ground or terrain, plants, minerals, bodies of water, people, general animal population, presence of woodland creatures, presence of powerful unnatural creatures, or even the general state of the natural setting. For example, you could determine the location of any powerful undead creatures, the location of all major sources of safe drinking water, and the location of any buildings (which register as blind spots).\n\nIn outdoor settings, the spell operates in a radius of 1 mile per caster level. In natural underground settings—caves, caverns, and the like—the radius is limited to 100 feet per caster level. The spell does not function where nature has been replaced by construction or settlement, such as in dungeons and towns."
         },
         {
-            "id": 193098,
+            "id": 193100,
             "text": "Follow the Leader"
         },
         {
-            "id": 193099,
+            "id": 193101,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEnchantment (Compulsion) [Mind-Affecting, Sonic]\nLevel: Bard 4,\nComponents: V, S, AF,\nCasting Time: 1 full round\nRange: Medium (100 ft. + 10 ft./level)\nArea: Living creatures with fewer than 5 HD\nDuration: Concentration, up to 1 minute/level\nSaving Throw: Will negates\nSpell Resistance: Yes\n\nLike the legendary piper, you can play a tune so beguiling that those who hear it feel compelled to follow along behind you, dancing merrily.\nYou can lure up to 1 HD of eligible creatures for each bard level you possess, up to a maximum of 10 HD.\nThose with the fewest hit dice are the first to be affected.\nOnce you have reached your limit of creatures, the music does not affect any others.\nCreatures thus captivated can defend themselves but do not initiate attacks.\nIf you lead your followers directly into danger, each is allowed another Will save to avoid walking off a cliff, stepping into deep water, or the like.\n\nFocus: The caster's instrument."
         },
         {
-            "id": 193100,
+            "id": 193102,
             "text": "Dream"
         },
         {
-            "id": 193101,
+            "id": 193103,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nIllusion (Phantasm) [Mind-Affecting]\nLevel: Bard 5, Sorcerer 5, Wizard 5\nComponents: V, S,\nCasting Time: 1 minute\nRange: Unlimited\nTarget: One living creature touched\nDuration: See text\nSaving Throw: None\nSpell Resistance: Yes\n\nYou, or a messenger touched by you, sends a phantasmal message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient's dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient. Once the message is delivered, the messenger's mind returns instantly to its body. The duration of the spell is the time required for the messenger to enter the recipient's dream and deliver the message.\n\nIf the recipient is awake when the spell begins, the messenger can choose to wake up (ending the spell) or remain in the trance. The messenger can remain in the trance until the recipient goes to sleep, then enter the recipient's dream and deliver the message as normal. A messenger that is disturbed during the trance comes awake, ending the spell.\n\nCreatures who don't sleep (such as elves, but not half-elves) or don't dream cannot be contacted by this spell.\n\nThe messenger is unaware of its own surroundings or of the activities around it while in the trance. It is defenseless both physically and mentally (always fails any saving throw, for example) while in the trance."
         },
         {
-            "id": 193102,
+            "id": 193104,
             "text": "Incite Riot"
         },
         {
-            "id": 193103,
+            "id": 193105,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEnchantment [Mind-Affecting]\nLevel: Bard 5, Sorcerer 5, Wizard 5,\nComponents: V,\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nTarget: One creature/level, no two of which are more than 30 ft. apart\nDuration: 1 round\nSaving Throw: Will negates\nSpell Resistance: Yes\n\nYou sow discord among your enemies, spurring them to physical violence.\nEach creature that fails its saving throw attacks the nearest creature on its next turn, whether friend or foe.\nAn affected creature attacks with whatever weapon is in hand, or with natural weapons.\nAn unarmed creature attacks with an unarmed strike.\nAn affected creature not already adjacent to another creature will move or (if possible) charge the nearest creature; if the nearest creature is not within range of a charge, the subject moves toward the nearest creature along the most efficient route."
         },
         {
-            "id": 193104,
+            "id": 193106,
             "text": "Quick Potion"
         },
         {
-            "id": 193105,
+            "id": 193107,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Sorcerer 4, Wizard 4\nComponents: V, S,\nCasting Time: 1 minute\nRange: Touch\nTarget: Flask of water touched\nDuration: 1 hour/level\nSaving Throw: Will negates (object)\nSpell Resistance: Yes (object)\n\nYou mutter the last of the spell's words and wave your fingers over the flask. Coppery sparks drop from your fingertips and suffuse the water with a deep rusty shade. As the sparks dissolve fully, you begin casting your next spell.\nYou transform the water in a flask so that it is capable of storing a spell in the manner of a potion. On your next turn, you or another spellcaster can cast a spell into the water, transforming the water into a potion of the appropriate type. Only spells suitable for making potions can be used in this way."
         },
         {
-            "id": 193106,
+            "id": 193108,
             "text": "Detect Guilt"
         },
         {
-            "id": 193107,
+            "id": 193109,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nDivination\nLevel: Cleric 1, Paladin 1\nComponents: V,S,DF\nCasting Time: 1 Standard Action\nRange: Close (25fg.+5ft/2 levels)\nTarget: One Creature\nDuration: Instantaneous\nSaving Throw: None\nSpell Resistance: No\n\nYou sense the presence of guilt in the target creature. This spell in no way reveals why the target feels guilty, only that it does. The level of guilt a creature feels has little to do with whatever act cases the creature's guilty feelings. A serial killer might feel no guilt for the brutal murder he commits, while a maid might feel strong gult about forgetting to mop the kitchen floor.\nGood creatures typically feel greater amounts of guilt than neutral creatures, who in turn feel more guilt than evil creatures. These generalizations cannot guarantee how a creature reacts to its own actions, but they give a general guideline.\nA Creature must have at least 3 INT, 1 WIS and 1 CHA in order to feel guilt. The spell fails if cast on a creature without those minimum ability scores.\nThe Spell categorizes guilt into 4 strengths, sense-able to the caster of the spell.\nOccasional pangs of guilt - weak aura\nStomach-churning guilt; worries about what happened - moderate aura\nLoses Sleep over what happened; obsesses over it - strong aura\nWants to take rash actions to avoid feeling the guilt - overwhelming aura"
         },
         {
-            "id": 193108,
+            "id": 193110,
             "text": "Rigor Mortis"
         },
         {
-            "id": 193109,
+            "id": 193111,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nNecromancy\nLevel: Cleric 2\nComponents: S, M,\nCasting Time: 1 standard action\nRange: Touch\nTarget: Creature touched\nDuration: 1d6+2 rounds\nSaving Throw: Fortitude negates\nSpell Resistance: Yes\n\nThis spell allows you to wrap a single target in death's embrace, making him both feel and appear dead for the duration of the spell.\nYou must be able to touch the target, and the target must have a Wisdom score, but otherwise the spell can affect any creature, including intelligent undead. You must succeed on a melee touch attack to affect unwilling targets, and those who fail their saving throws immediately fall to the ground as though dead.\nAll vital functions (if any) are suspended; subjects of this spell do not breathe, pump blood, or otherwise indicate in any way that they still live.\nAny physical harm done to someone in this state immediately grants another saving throw to awaken from the artificial torpor.\nMaterial Component: A pinch of ash from a cremated body of any kind."
         },
         {
-            "id": 193108,
+            "id": 193112,
             "text": "Wood Wose"
         },
         {
-            "id": 193109,
+            "id": 193113,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nConjuration (Creation)\nLevel: Druid 1,\nComponents: V, S, DF,\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nEffect: One nature servant\nDuration: 1 hour/level\nSaving Throw: None\nSpell Resistance: No\n\nWhistling up nature's power and waving a branch of holly, you create a helper for the task at hand.\n\nA wood wose is a translucent green nature spirit that you can command to perform simple natural tasks. It can build a campfire, gather herbs, feed an animal companion, catch a fish, or perform any other simple task that doesn't involve knowledge of technology. It cannot, for example, open a latched chest, since it doesn't know how a latch works.\n\nA wood wose can perform only one activity at a time, but it repeats the same activity if told to do so. Thus, if you commanded it to gather leaves, it would continue to do so while you turned your attention elsewhere, as long as you remained within range.\n\nA wood wose has an effective Strength of 2, so it can lift 20 pounds or drag 100 pounds. It can trigger traps, but the 20 pounds of force it can exert is not enough to activate most pressure plates. It has a land speed of 15 feet and a fly speed of 15 feet (perfect).\n\nA wood wose cannot attack in any way; it is never allowed an attack roll or a saving throw. It cannot be killed, but it dissipates if it takes 6 points of damage from area attacks. If you attempt to send the wose beyond the spell's range (measured from your current position), it ceases to exist."
         },
         {
-            "id": 193110,
+            "id": 193114,
             "text": "Zone of Natural Purity"
         },
         {
-            "id": 193111,
+            "id": 193115,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEvocation\nLevel: Druid 2\nComponents: V, S, M, DF, A bushel of ivy leaves and berries, which must be sprinkled around the area.\nCasting Time: 1 standard action\nRange: Close (25 ft. + 5 ft./2 levels)\nArea: 20-ft.-radius emanation\nDuration: 2 hours/level\nSaving Throw: None\nSpell Resistance: No\n\nThis spell sanctifies an area to the forces of nature. Every fey and plant creature in the area gains a +1 sacred bonus on attack rolls, damage rolls, and saving throws, while aberrations in the area take a —1 penalty on attack rolls, damage rolls, and saves."
         },
         {
-            "id": 193112,
+            "id": 193116,
             "text": "Nature's Rampart"
         },
         {
-            "id": 193113,
+            "id": 193117,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Druid 3, Ranger 3\nComponents: V, S, DF,\nCasting Time: 10 minutes\nRange: Medium (100 ft. + 10 ft./level)\nArea: Structure up to 40 ft. square\nDuration: Instantaneous\nSaving Throw: None\nSpell Resistance: No\n\nWith a final wave of your hand, the ground beneath your feet trembles and the landscape shifts into a new form.\nYou shape a natural setting into a formidable defensive position. Usually this spell is used to prepare an open outdoor area such as a hillside or a forest, but a large natural cavern could be shaped into a divine rampart. Artificial structures or features are not affected, although nature's rampart could be positioned to fill a gap between two buildings or barricade an unpaved road. The effect of the spell depends on the terrain:\n\nOpen Outdoor Site: A rampart or dike of earth 5 feet high and 5 feet thick at its base rises immediately behind a shallow ditch 5 feet wide and 5 feet deep along the perimeter of the site. Creatures behind the dike receive cover. Attackers approaching on foot must scramble down into the ditch and then climbing 10 feet to reach the top of the dike (Climb DC 10).\nRough Outdoor Site or Cavern: Loose stones and boulders, dead wood, and patches of dense briars are arranged to form a defensible wall 5 feet high and 2 feet thick at the base around the perimeter of the site. Creatures behind the wall receive cover.\nMarshy or Low-Lying Site: In areas such as marsh, bog, swamp, or tundra, nature's rampart cannot raise a wall, but instead creates a water-filled ditch 10 feet wide and 5 feet deep. Creatures forced to wade the ditch are reduced to 1/4 their normal speed (minimum 5 feet) and cannot charge or run.\n\nFocus: A small quartz gem engraved with the image of an exquisite tiny castle, worth at least 100 gp."
         },
         {
-            "id": 193114,
+            "id": 193118,
             "text": "Insidious Rhythm"
         },
         {
-            "id": 193115,
+            "id": 193119,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nEnchantment (Compulsion) [Mind-Affecting]\nLevel: Bard 1,\nComponents: V, S,\nCasting Time: 1 immediate action\nRange: Medium (100 ft. + 10 ft./level)\nTarget: One creature\nDuration: 1 minute/level\nSaving Throw: Will negates\nSpell Resistance: Yes\n\nYou recite a foolhardy ditty, tapping your foot in time. With a wink and a grin you mark your target, who shortly thereafter follows suit.\n\nThe subject takes a —4 penalty on Intelligence-based skill checks and Concentration checks due to an endlessly recycling melody stuck in its mind. Whenever the subject attempts to cast, concentrate on, or direct a spell, it must succeed on a Concentration check (DC equal to insidious rhythm's save DC + spell's level) or fail at the attempt."
         },
         {
-            "id": 193116,
+            "id": 193120,
             "text": "Animate Instrument"
         },
         {
-            "id": 193117,
+            "id": 193121,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Bard 2,\nComponents: V, S,\nCasting Time: 1 standard action\nRange: Touch\nTarget: Instrument touched\nDuration: 1 minute/level\nSaving Throw: None\nSpell Resistance: No\n\nAs you finish intoning this chant, your instrument leaves your hands and floats before you, continuing your song.\n\nYou imbue your musical instrument with the ability to play at your command. This instrument can play a tune on your behalf even while you are busy with other actions. As long as this spell is in effect, you can cause the instrument to begin playing as a swift action, effectively mimicking and continuing your performance. The instrument uses your Perform modifier for the purpose of bardic music checks.\nOnce the animated instrument picks up the performance, you do not have to concentrate to maintain its effect. Thus, you can continue a performance or bardic music effect that relies on the use of a musical instrument and also cast spells, activate magic items by spell completion or command words, or even use another bardic music ability.\n\nYou can animate any nonmagical musical instrument, such as a piano, fiddle, or harp. If the instrument must be carried or held while played, it floats in the air in the square in which you cast the spell. The animated instrument cannot move. It continues to play until the spell expires or the instrument is damaged. An animated instrument's AC is 10 + any relevant size modifiers; most handheld instruments are Tiny."
         },
         {
-            "id": 193116,
+            "id": 193122,
             "text": "Reveille"
         },
         {
-            "id": 193117,
+            "id": 193123,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nNecromancy [Language-Dependent, Sonic]\nLevel: Bard 3\nComponents: V, S,\nCasting Time: 1 full round\nRange: Touch\nTarget: One recently dead creature\nDuration: 1 round/level\nSaving Throw: None\nSpell Resistance: No\n\nYou cause a recently dead creature (within three days of its death) to reveal information about events that led up to its death.\n\nThe corpse speaks tersely in its native language, using no more than a dozen words or so in a round.\nIn the first round, it describes the last thing it saw.\nIn the second, it describes its dying wish.\nIn the third, it describes the wounding that killed it.\nIn the fourth, it tells who killed it.\nIn the fifth, it tells why it believes it was killed.\nIn the sixth and all rounds following, it answers one question to the best of its ability (as speak with dead).\nThe corpse has no more knowledge than it had when alive, nor does it retain any memory of events that occurred after its death.\nAll restrictions placed on the use of speak with dead (differing alignments allow a saving throw, no repeat uses of this spell or speak with dead within seven days, intact body required, and undead creatures are immune) apply to this spell as well."
         },
         {
-            "id": 193118,
+            "id": 193124,
             "text": "Fabricate"
         },
         {
-            "id": 193119,
+            "id": 193125,
             "text": "(RP-ZAUBER - KEIN EFFEKT IN DER ENGINE)\nTransmutation\nLevel: Sorcerer 5, Wizard 5\nComponents: V, S, M,\nCasting Time: See text\nRange: Close (25 ft. + 5 ft./2 levels)\nTarget: Up to 10 cu. ft./level; see text\nDuration: Instantaneous\nSaving Throw: None\nSpell Resistance: No\n\nYou convert material of one sort into a product that is of the same material. Thus, you can fabricate a wooden bridge from a clump of tress, a rope from a patch of hemp, clothes from flax or wool, and so forth. Creatures or magic items cannot be created or transmuted by the fabricate spell. The quality of items made by this spell is commensurate with the quality of material used as the basis for the new fabrication. If you work with a mineral, the target is reduced to 1 cubic foot per level instead of 10 cubic feet.\n\nYou must make an appropriate Craft check to fabricate articles requiring a high degree of craftsmanship (jewelry, swords, glass, crystal, and the like).\n\nCasting requires 1 round per 10 cubic feet (or 1 cubic foot) of material to be affected by the spell.\nMaterial Component: The original material, which costs the same amount as the raw materials required to craft the item to be created."
+        },
+        {
+            "id": 193126,
+            "text": "Verbündeter der Natur I"
+        },
+        {
+            "id": 193127,
+            "text": "Grad: DRU 1, WAL 1\nKalkulationsgrad: 1\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193128,
+            "text": "Verbündeter der Natur II"
+        },
+        {
+            "id": 193129,
+            "text": "Grad: DRU 2, WAL 2\nKalkulationsgrad: 2\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193130,
+            "text": "Verbündeter der Natur III"
+        },
+        {
+            "id": 193131,
+            "text": "Grad: DRU 3, WAL 3\nKalkulationsgrad: 3\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193132,
+            "text": "Verbündeter der Natur IV"
+        },
+        {
+            "id": 193133,
+            "text": "Grad: DRU 4, WAL 4\nKalkulationsgrad: 4\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193134,
+            "text": "Verbündeter der Natur V"
+        },
+        {
+            "id": 193135,
+            "text": "Grad: DRU 5, WAL 5\nKalkulationsgrad: 5\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193136,
+            "text": "Verbündeter der Natur VI"
+        },
+        {
+            "id": 193137,
+            "text": "Grad: DRU 6, WAL 6\nKalkulationsgrad: 6\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193138,
+            "text": "Verbündeter der Natur VII"
+        },
+        {
+            "id": 193139,
+            "text": "Grad: DRU 7, WAL 7\nKalkulationsgrad: 7\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193140,
+            "text": "Verbündeter der Natur VIII"
+        },
+        {
+            "id": 193141,
+            "text": "Grad: DRU 8, WAL 8\nKalkulationsgrad: 8\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
+        },
+        {
+            "id": 193142,
+            "text": "Verbündeter der Natur IX"
+        },
+        {
+            "id": 193143,
+            "text": "Grad: DRU 9, WAL 9\nKalkulationsgrad: 9\nSchule: Beschwörung\nKategorie:\nKomponenten: V, G\nReichweite: Kurz\nWirkungsbereich/Ziel: Punkt\nWirkungsdauer: 24 Stunden\nGegenzauber: \nRettungswurf: Nein\nZauberresistenz: Nein\n\nDer Magieanwender zaubert einen Schreckensdachs herbei, der ihm loyal dient."
         }
+
     ]
 }

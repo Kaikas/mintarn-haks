@@ -75,7 +75,7 @@
 71         NPC_Rogue                          9086    9087          8         DEX         100    ****     ****      ****      ****        ****            PackFTRog6     PackSKRog6     PackEQRog1     0          0             
 72         NPC_Bard                           9089    9088          1         CHA         100    8        ****      ****      ****        PackSPBar3      PackFTBard6    PackSKBard1    PackEQBard1    0          0             
 73         Aberration                         525     ****          11        STR         ****   ****     ****      ****      ****        ****            PackFTCrea1    PackSKCrea1    ****           0          0             
-74         Animal                             526     ****          12        CON         ****   ****     ****      ****      ****        ****            PackFTAnim     PackSKAnim     ****           0          0             
+74         Animal                             526     ****          12        STR         ****   ****     ****      ****      ****        ****            PackFTCrea1    PackFTCrea1    ****           0          0             
 75         Construct                          528     ****          13        STR         ****   ****     ****      ****      ****        ****            PackFTCrea1    PackSKCrea1    ****           0          0             
 76         Humanoid                           3759    ****          14        STR         ****   ****     ****      ****      ****        ****            PackFTCrea1    PackSKCrea1    ****           0          0             
 77         Monstrous                          536     ****          15        STR         ****   ****     ****      ****      ****        ****            PackFTCrea1    PackSKCrea1    ****           0          0             
@@ -134,4 +134,5 @@
 130        NPC_Aribeth_Blackguard             84523   84106         31        STR         50     ****     ****      ****      ****        PackSPPala1     PackFTPalaH    PackSKPalaH    PackEQPala1    0          0             
 131        Purple_Dragon_Knight               111933  111934        41        STR         50     ****     ****      ****      ****        ****            PackFTFight1   PackSKFight1   PackEQFight1   0          1             
 132        Waldlaeufer35                      8195    8207          43        DEX         60     ****     ****      ****      ****        PackSPRang1     PackFTRang2    PackSKRang2    PackEQRang2    0          1             
-133        Druide35                           6905    6904          44        WIS         50     ****     ****      ****      1           PackSPDruid1    PackFTDruid1   PackSKDruid1   PackEQDruid1   0          1             
+133        Druide35                           6905    6904          44        WIS         50     ****     ****      ****      1           PackSPDruid1    PackFTDruid1   PackSKDruid1   PackEQDruid1   0          1
+134        Animal_Companion                   526     ****          45        CON         ****   ****     ****      ****      ****        ****            PackFTAnim     PackSKAnim     ****           0          0             

@@ -2,12 +2,13 @@
                                                                
            NAME           BASERESREF    STRREF      DESCRIPTION   
 0          Bat            NW_FM_BAT     1995        5636  
-1          Raven          NW_FM_RAVE    6008        6009           
-2          Cat            NW_FM_CAT     16969762    16969763                          
-3          Hawk           NW_FM_HAWK    16969764    16969765                
-4          Lizard         NW_FM_LIZ     16969766    16969767                
-5          Owl            NW_FM_OWL     16969768    16969769             
-6          Rat            NW_FM_RAT     16969770    16969771             
-7          Viper          NW_FM_VIP     16969772    16969773               
-8          Frog           NW_FM_FROG    16969774    16969775               
-9          Weasel         NW_FM_WEAS    16969776    16969777                 
+1          Cat            NW_FM_CAT     16969762    16969763
+2          Hawk           NW_FM_HAWK    16969764    16969765
+3          Lizard         NW_FM_LIZ     16969766    16969767
+4          Owl            NW_FM_OWL     16969768    16969769
+5          Rat            NW_FM_RAT     16969770    16969771
+6          Raven          NW_FM_RAVE    6008        6009  
+7          Viper          NW_FM_VIP     16969772    16969773
+8          Frog           NW_FM_FROG    16969774    16969775
+9          Weasel         NW_FM_WEAS    16969776    16969777
+10         Ferret         NW_FM_FERR    16969778    16969779

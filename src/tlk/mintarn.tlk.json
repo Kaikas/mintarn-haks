@@ -43960,7 +43960,75 @@
         },
         {
             "id": 192546,
-            "text": "Tiergefährte"
+            "text": "Katze"
+        },
+        {
+            "id": 192547,
+            "text": "Die Katze gibt ihrem Meister +3 auf Würfe zum Leise bewegen."
+        },
+        {
+            "id": 192548,
+            "text": "Falke"
+        },
+        {
+            "id": 192549,
+            "text": "Der Falke gibt seinem Meister +2 auf Entdecken-Würfe."
+        },
+        {
+            "id": 192550,
+            "text": "Echse"
+        },
+        {
+            "id": 192551,
+            "text": "Die Echse gibt ihrem Meister +3 auf Würfe auf Athletik."
+        },
+        {
+            "id": 192552,
+            "text": "Eule"
+        },
+        {
+            "id": 192553,
+            "text": "Die Eule gibt ihrem Meister +2 auf Entdecken-Würfe."
+        },
+        {
+            "id": 192554,
+            "text": "Ratte"
+        },
+        {
+            "id": 192555,
+            "text": "Die Ratte gibt ihrem Meister +2 auf Zähigkeits-Würfe."
+        },
+        {
+            "id": 192556,
+            "text": "Rabe"
+        },
+        {
+            "id": 192557,
+            "text": "Der Rabe gibt seinem Meister +3 auf Würfe zum Schätzen vom Wert von Gegenständen."
+        },
+        {
+            "id": 192558,
+            "text": "Schlange"
+        },
+        {
+            "id": 192559,
+            "text": "Die Schlange gibt ihrem Meister +3 auf Bluffen-Würfe."
+        },
+        {
+            "id": 192560,
+            "text": "Kröte"
+        },
+        {
+            "id": 192561,
+            "text": "Die Kröte gibt ihrem Meister +3 Trefferpunkte."
+        },
+        {
+            "id": 192562,
+            "text": "Wiesel"
+        },
+        {
+            "id": 192563,
+            "text": "Das Wiesel gibt seinem Meister +2 auf Reflex-Würfe."
         },
         {
             "id": 193000,

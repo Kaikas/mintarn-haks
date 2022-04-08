@@ -44000,34 +44000,26 @@
         },
         {
             "id": 192556,
-            "text": "Rabe"
-        },
-        {
-            "id": 192557,
-            "text": "Der Rabe gibt seinem Meister +3 auf Würfe zum Schätzen vom Wert von Gegenständen."
-        },
-        {
-            "id": 192558,
             "text": "Schlange"
         },
         {
-            "id": 192559,
+            "id": 192557,
             "text": "Die Schlange gibt ihrem Meister +3 auf Bluffen-Würfe."
         },
         {
-            "id": 192560,
+            "id": 192558,
             "text": "Kröte"
         },
         {
-            "id": 192561,
+            "id": 192559,
             "text": "Die Kröte gibt ihrem Meister +3 Trefferpunkte."
         },
         {
-            "id": 192562,
+            "id": 192560,
             "text": "Wiesel"
         },
         {
-            "id": 192563,
+            "id": 192561,
             "text": "Das Wiesel gibt seinem Meister +2 auf Reflex-Würfe."
         },
         {
